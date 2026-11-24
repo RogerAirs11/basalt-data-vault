@@ -1,0 +1,60 @@
+{
+ "generated": "2026-11-24T16:20Z",
+ "source": "sandbox workspace",
+ "files": [
+  {
+   "name": "asb-ratings-verified.csv",
+   "bytes": 638675,
+   "rows": 4283,
+   "md5": "d1e6ef10035fae9fd7d0bf8348f4a92b"
+  },
+  {
+   "name": "asb_crosswalk.csv",
+   "bytes": 155031,
+   "rows": 2200,
+   "md5": "6ebcaf8b4281b03d85a59b8f50a31530"
+  },
+  {
+   "name": "asbdavani_matches.csv",
+   "bytes": 386472,
+   "rows": 4009,
+   "md5": "72a185b3b63be2ffa6ae5b309efe43cc"
+  },
+  {
+   "name": "asbdavani_new.csv",
+   "bytes": 322865,
+   "rows": 2976,
+   "md5": "de69212e8e3984387a5b709570524c26"
+  },
+  {
+   "name": "horses_master.csv",
+   "bytes": 11083156,
+   "rows": 35483,
+   "md5": "fb2cce0a3a00414eef392acec117dfee"
+  },
+  {
+   "name": "lineage_edges.csv.gz",
+   "bytes": 3125361,
+   "rows": "-",
+   "md5": "09948c3fd21c09358dd5b06fe91cde52"
+  },
+  {
+   "name": "lineage_names.csv.gz",
+   "bytes": 158338,
+   "rows": "-",
+   "md5": "6ab65fa369e44e2979af009ff0e29676"
+  },
+  {
+   "name": "pedigree_edges.csv",
+   "bytes": 5028620,
+   "rows": 47901,
+   "md5": "e60088c51d5e51d263df6a39ba08bc42"
+  },
+  {
+   "name": "race_records_all.csv",
+   "bytes": 5609467,
+   "rows": 9652,
+   "md5": "1c57df93c990210d358b1ce491cee34b"
+  }
+ ]
+}
