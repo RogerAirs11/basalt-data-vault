@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T23:00Z",
+ "generated": "2026-11-25T00:30Z",
  "files": [
   {
    "name": "asb-ratings-verified.csv",
@@ -24,6 +24,18 @@
    "bytes": 322865,
    "rows": 2976,
    "md5": "de69212e8e3984387a5b709570524c26"
+  },
+  {
+   "name": "cc_horse_profiles_FINAL.csv",
+   "bytes": 3883293,
+   "rows": 13401,
+   "md5": "0be5e47f975cc5235bfd27df2a778895"
+  },
+  {
+   "name": "cc_racecards2.py",
+   "bytes": 3694,
+   "rows": 70,
+   "md5": "144e2c97c14bdbfe23ce2c0a523625a4"
   },
   {
    "name": "horses_master.csv",

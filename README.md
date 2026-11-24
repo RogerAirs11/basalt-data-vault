@@ -6,6 +6,8 @@
 | `asb_crosswalk.csv` | 0.16 MB | 2200 | `6ebcaf8b4281b03d…` |
 | `asbdavani_matches.csv` | 0.39 MB | 4009 | `72a185b3b63be2ff…` |
 | `asbdavani_new.csv` | 0.32 MB | 2976 | `de69212e8e398438…` |
+| `cc_horse_profiles_FINAL.csv` | 3.88 MB | 13401 | `0be5e47f975cc523…` |
+| `cc_racecards2.py` | 0.00 MB | 70 | `144e2c97c14bdbfe…` |
 | `horses_master.csv` | 11.08 MB | 35483 | `fb2cce0a3a00414e…` |
 | `lineage_edges.csv.gz` | 3.13 MB | - | `09948c3fd21c0935…` |
 | `lineage_names.csv.gz` | 0.16 MB | - | `6ab65fa369e44e29…` |
