@@ -33,6 +33,10 @@
       "sha256": "44f928a8d1bca020b9db66bd3a0f2c7d3461d793f25b0d7b7ce8fc6dc5cb4c49",
       "bytes": 4236
     },
+    "build_master2.py": {
+      "sha256": "63b9a21cbefbb7c195ebe5c6957a81f68da58d284fa0ea886cc7314dff26abbd",
+      "bytes": 5347
+    },
     "cc_horse_profiles_FINAL.csv": {
       "sha256": "b3a4421b867e140f24f5827c83142f2cf2b350e16babe41e0e15068e64d8116f",
       "bytes": 3883293
@@ -70,8 +74,8 @@
       "bytes": 872188
     },
     "horse_master_combined.csv": {
-      "sha256": "259ae1f75cd870b6ee840b3cce3ac0f69bc1a7b17b5d34f80aedd604dbe4276a",
-      "bytes": 927888
+      "sha256": "4ceb21592389dcbe28c883105d23c779f3863b328d2ce8dc3254ebbd453cbe43",
+      "bytes": 956209
     },
     "horses_master.csv": {
       "sha256": "8c60229822bc5230e182fe3cecec83b4e9151e11e883d6cb07e30dcadb4c828d",
