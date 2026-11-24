@@ -49,6 +49,18 @@
       "sha256": "86fa10ee05494545cb88e91b31e198e26a8d97447ec0863839b97b9a6cd6c9b8",
       "bytes": 1387341
     },
+    "cc_news2.py": {
+      "sha256": "3e489f74ef00cf5da91d0f6b114d302f3409bfe9365597b95bd53f1846130b48",
+      "bytes": 15423
+    },
+    "cc_news_articles.csv": {
+      "sha256": "ca215b6645b69ff0a68e60c014ecfbad87bb1476a57de37946b50cce61a5c43e",
+      "bytes": 30910
+    },
+    "cc_news_doping.csv": {
+      "sha256": "dcc367d85bb380de49c944532c6170c89a3b3b0b877aee3872139b90df04917d",
+      "bytes": 111254
+    },
     "cc_racecards2.py": {
       "sha256": "ca26e23de3bea7dc56ff53027a170b16bea56f2910b07b2d82a752830e5d817f",
       "bytes": 3694
@@ -80,6 +92,10 @@
     "night_load.py": {
       "sha256": "ac840a4779aa51d2efa91bfbb9ed1a0f309aa5669694e457f566a07dfd28c70c",
       "bytes": 8737
+    },
+    "night_load2.py": {
+      "sha256": "f15eeaf7026d90d769e51e307f2af27872df9e8e2914747346a602d9a2fda2bf",
+      "bytes": 13035
     },
     "pedigree_edges.csv": {
       "sha256": "3194b937ae4544fd2118e96f739b24b93ca4ce651ff2704e063cd0d867553e2a",
