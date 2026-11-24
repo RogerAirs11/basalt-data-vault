@@ -1,83 +1,97 @@
 {
- "generated": "2026-11-25T00:30Z",
- "files": [
-  {
-   "name": "asb-ratings-verified.csv",
-   "bytes": 638675,
-   "rows": 4283,
-   "md5": "d1e6ef10035fae9fd7d0bf8348f4a92b"
-  },
-  {
-   "name": "asb_crosswalk.csv",
-   "bytes": 155031,
-   "rows": 2200,
-   "md5": "6ebcaf8b4281b03d85a59b8f50a31530"
-  },
-  {
-   "name": "asbdavani_matches.csv",
-   "bytes": 386472,
-   "rows": 4009,
-   "md5": "72a185b3b63be2ffa6ae5b309efe43cc"
-  },
-  {
-   "name": "asbdavani_new.csv",
-   "bytes": 322865,
-   "rows": 2976,
-   "md5": "de69212e8e3984387a5b709570524c26"
-  },
-  {
-   "name": "cc_horse_profiles_FINAL.csv",
-   "bytes": 3883293,
-   "rows": 13401,
-   "md5": "0be5e47f975cc5235bfd27df2a778895"
-  },
-  {
-   "name": "cc_racecards2.py",
-   "bytes": 3694,
-   "rows": 70,
-   "md5": "144e2c97c14bdbfe23ce2c0a523625a4"
-  },
-  {
-   "name": "horses_master.csv",
-   "bytes": 11083156,
-   "rows": 35483,
-   "md5": "fb2cce0a3a00414eef392acec117dfee"
-  },
-  {
-   "name": "lineage_edges.csv.gz",
-   "bytes": 3125361,
-   "rows": "-",
-   "md5": "09948c3fd21c09358dd5b06fe91cde52"
-  },
-  {
-   "name": "lineage_names.csv.gz",
-   "bytes": 158338,
-   "rows": "-",
-   "md5": "6ab65fa369e44e2979af009ff0e29676"
-  },
-  {
-   "name": "merge_races.py",
-   "bytes": 1565,
-   "rows": 33,
-   "md5": "0f2e3862d203a95d2c64751f1fc6227f"
-  },
-  {
-   "name": "pedigree_edges.csv",
-   "bytes": 5028620,
-   "rows": 47901,
-   "md5": "e60088c51d5e51d263df6a39ba08bc42"
-  },
-  {
-   "name": "race_records_FINAL.csv",
-   "bytes": 10843150,
-   "rows": 17659,
-   "md5": "d4b049a2209f2b5e5e328ef42956a2c3"
-  },
-  {
-   "name": "race_records_all.csv",
-   "bytes": 5609467,
-   "rows": 9652,
-   "md5": "1c57df93c990210d358b1ce491cee34b"
+  "generated_utc": "2026-11-25",
+  "files": {
+    "OVERNIGHT-REPORT.md": {
+      "sha256": "ce4d2108116551192c50fe9d6e6ceaa332a2da458acd19c6576045e4e640802b",
+      "bytes": 3016
+    },
+    "README.md": {
+      "sha256": "36f3b9ea72ed3554f9cc62eae6a1036451e2aab9440450fbffced753f857b84a",
+      "bytes": 934
+    },
+    "asb-ratings-verified.csv": {
+      "sha256": "b5045579aa95609828b349553d67ee6c88367dcc26d995c1ae4d46707e5c85cc",
+      "bytes": 638675
+    },
+    "asb_crosswalk.csv": {
+      "sha256": "b80e86f7bc9d27c15bf431018d892140a7e5123298b1701940cfd3043b75c7a8",
+      "bytes": 155031
+    },
+    "asbdavani_matches.csv": {
+      "sha256": "bd82e06a757acb764befae7ba26f88762bfd6e7af0978d192733daa4403768c0",
+      "bytes": 386472
+    },
+    "asbdavani_new.csv": {
+      "sha256": "ddf2fc601417758c706e36da5d39c71a399721d2326505474f461d798fb77976",
+      "bytes": 322865
+    },
+    "build_load_rows.py": {
+      "sha256": "5d4ed7dc40701eb11d10dc9f34297beb9b94e1cb9bd3f6e491a9141b69d20cc6",
+      "bytes": 2972
+    },
+    "build_master.py": {
+      "sha256": "44f928a8d1bca020b9db66bd3a0f2c7d3461d793f25b0d7b7ce8fc6dc5cb4c49",
+      "bytes": 4236
+    },
+    "cc_horse_profiles_FINAL.csv": {
+      "sha256": "b3a4421b867e140f24f5827c83142f2cf2b350e16babe41e0e15068e64d8116f",
+      "bytes": 3883293
+    },
+    "cc_index_1.json": {
+      "sha256": "c052c56603f2cca324085980fccaf455b9dcaaf125fcdc9f9f61c666e0238412",
+      "bytes": 872188
+    },
+    "cc_index_2.json": {
+      "sha256": "44873de0bab93c313c958a4cc563eef78588c9abe9286e8dbf7d7482843678e0",
+      "bytes": 1615719
+    },
+    "cc_index_3.json": {
+      "sha256": "86fa10ee05494545cb88e91b31e198e26a8d97447ec0863839b97b9a6cd6c9b8",
+      "bytes": 1387341
+    },
+    "cc_racecards2.py": {
+      "sha256": "ca26e23de3bea7dc56ff53027a170b16bea56f2910b07b2d82a752830e5d817f",
+      "bytes": 3694
+    },
+    "cc_url_index.json": {
+      "sha256": "c052c56603f2cca324085980fccaf455b9dcaaf125fcdc9f9f61c666e0238412",
+      "bytes": 872188
+    },
+    "horse_master_combined.csv": {
+      "sha256": "259ae1f75cd870b6ee840b3cce3ac0f69bc1a7b17b5d34f80aedd604dbe4276a",
+      "bytes": 927888
+    },
+    "horses_master.csv": {
+      "sha256": "8c60229822bc5230e182fe3cecec83b4e9151e11e883d6cb07e30dcadb4c828d",
+      "bytes": 11083156
+    },
+    "lineage_edges.csv.gz": {
+      "sha256": "bd609b4b708dc8055a63fab13a302356cee484db49df8c57ecf5c1049d6c5dd4",
+      "bytes": 3125361
+    },
+    "lineage_names.csv.gz": {
+      "sha256": "3243459b9c27ae563ee78ed046711321d4ce14b21825912aa79598495b84b365",
+      "bytes": 158338
+    },
+    "merge_races.py": {
+      "sha256": "d417bfbd41883e2bbfae8fc50bcfcb789e0e35a399c9f6b72de5525699784edf",
+      "bytes": 1565
+    },
+    "night_load.py": {
+      "sha256": "ac840a4779aa51d2efa91bfbb9ed1a0f309aa5669694e457f566a07dfd28c70c",
+      "bytes": 8737
+    },
+    "pedigree_edges.csv": {
+      "sha256": "3194b937ae4544fd2118e96f739b24b93ca4ce651ff2704e063cd0d867553e2a",
+      "bytes": 5028620
+    },
+    "race_records_FINAL.csv": {
+      "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
+      "bytes": 10843150
+    },
+    "race_records_all.csv": {
+      "sha256": "7b0418fbd46fba36ca99f172fb1be5f334e5120785df7073bda9f596f8ff2c80",
+      "bytes": 5609467
+    }
   }
- ]
 }
