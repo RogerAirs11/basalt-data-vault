@@ -61,6 +61,12 @@ def put_file(path, content, message, retries=4):
     return False
 
 
+def list_shards(prefix='scrape-2026-11-25/full'):
+    """Every shard currently in the repo for this job."""
+    d = api(f'contents/{prefix}?ref=main')
+    return d if isinstance(d, list) else []
+
+
 def read_json(path, default):
     d = api(f'contents/{path}?ref=main')
     if isinstance(d, dict) and 'content' in d:
@@ -75,8 +81,27 @@ print('loading state...', flush=True)
 targets = read_json('scrape-2026-11-25/targets.json', None)
 if not targets:
     raise SystemExit('no targets')
-done_state = read_json('scrape-2026-11-25/full_done.json', {})
-done = set(done_state.get('done', []))       # "slug/tab" keys
+# resume from the shards actually present (authoritative, race-free)
+done = set()
+_sh = list_shards()
+print(f'  existing shards: {len(_sh)}', flush=True)
+for _s in _sh:
+    try:
+        if _s['size'] > 900000:
+            _raw = urllib.request.urlopen(
+                f"https://raw.githubusercontent.com/{REPO}/main/"
+                f"scrape-2026-11-25/full/{_s['name']}", timeout=240).read()
+        else:
+            _raw = base64.b64decode(api(f"contents/scrape-2026-11-25/full/{_s['name']}")['content'])
+        _tf = tarfile.open(fileobj=io.BytesIO(_raw), mode='r:gz')
+        for _m in _tf.getmembers():
+            _b = os.path.basename(_m.name)
+            if '__' in _b:
+                _sl, _tb = _b.rsplit('.', 1)[0].split('__', 1)
+                done.add(f'{_sl}/{_tb}')
+    except Exception:
+        pass
+print(f'  pages already stored: {len(done)}', flush=True)
 
 if MODE == 'missing':
     legacy = set(read_json('scrape-2026-11-25/legacy_markdown.json', []))
@@ -157,14 +182,15 @@ def flush():
             for k, v in payload.items():
                 buf.setdefault(k, v)
         return
-    now = set(read_json('scrape-2026-11-25/full_done.json', {}).get('done', []))
-    now |= set(payload.keys())
-    put_file('scrape-2026-11-25/full_done.json',
-             json.dumps({'done': sorted(now), 'count': len(now),
+    # do NOT maintain a counter; report the shard count instead (race-free)
+    n = len(list_shards())
+    put_file('scrape-2026-11-25/full_status.json',
+             json.dumps({'shards': n,
+                         'expected_pages': len(horses) * len(TABS),
                          'updated': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())},
                         ensure_ascii=False).encode(),
-             f'full_done: {len(now)}')
-    print(f'  ✅ committed {len(payload)} -> total {len(now)} pages', flush=True)
+             f'full_status: {n} shards')
+    print(f'  ✅ committed {len(payload)} pages (shard #{n})', flush=True)
 
 
 ths = [threading.Thread(target=worker, daemon=True) for _ in range(WORKERS)]
