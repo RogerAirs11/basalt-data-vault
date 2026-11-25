@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T08:55Z",
+  "generated_utc": "2026-11-25T09:25Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -80,6 +80,10 @@
     "drug_normalize.py": {
       "sha256": "bf911251e9ec4c799a2ff1f56d49e751a23974d9e4a8c85d13610969356d04bc",
       "bytes": 5678
+    },
+    "PEAK-EFFICIENCY-PLAN.md": {
+      "sha256": "5dce381722742e1f3300d32925fef979fee34d5c482573f3abff096de9aea2c7",
+      "bytes": 7124
     },
     "horse_master_combined.csv": {
       "sha256": "4ceb21592389dcbe28c883105d23c779f3863b328d2ce8dc3254ebbd453cbe43",
