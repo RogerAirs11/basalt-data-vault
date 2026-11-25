@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T08:40Z",
+  "generated_utc": "2026-11-25T08:55Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -117,6 +117,10 @@
       "sha256": "617f8339782ef5838a81e58a0e7b66ddafdbedca98c1dbb333a1d821cbd60c85",
       "bytes": 1569
     },
+    "WORKER-EFFICIENCY-AUDIT.md": {
+      "sha256": "066c7d99d0ecbbd62c842b31fc31d435559037be0c0e5ac7e2fc57571e4be280",
+      "bytes": 4829
+    },
     "cc_news_articles.csv": {
       "sha256": "ca215b6645b69ff0a68e60c014ecfbad87bb1476a57de37946b50cce61a5c43e",
       "bytes": 30910
@@ -184,6 +188,50 @@
     "DATABASE-STATE-2026-11-25.md": {
       "sha256": "d8e21fb1167697dc2060c868375cd0768976453fcab415ba5ab582cc9b1741b5",
       "bytes": 5867
+    },
+    "recovery-bundle/race_records_FINAL.csv": {
+      "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
+      "bytes": 10843150
+    },
+    "recovery-bundle/cc_horse_profiles_FINAL.csv": {
+      "sha256": "b3a4421b867e140f24f5827c83142f2cf2b350e16babe41e0e15068e64d8116f",
+      "bytes": 3883293
+    },
+    "recovery-bundle/doping_master.csv": {
+      "sha256": "0de48ea8b4f39a878dd610b02752fe6c76f0f875105744e4584054d6ce5cfb81",
+      "bytes": 38090
+    },
+    "recovery-bundle/asb_drug_observations_canonical.csv": {
+      "sha256": "c14274230bf9dfeb15b5b2576a223f79ed0bb929198243d2a7b4caa9d02195c6",
+      "bytes": 1025
+    },
+    "recovery-bundle/pedigree_edges.csv": {
+      "sha256": "3194b937ae4544fd2118e96f739b24b93ca4ce651ff2704e063cd0d867553e2a",
+      "bytes": 5028620
+    },
+    "recovery-bundle/doping_records.csv": {
+      "sha256": "fe7af4cc789dea7fd82c0ee7eae96f450a3bdb6605b01bf8d499380bcbb3daac",
+      "bytes": 83003
+    },
+    "recovery-bundle/BUNDLE-MANIFEST.json": {
+      "sha256": "d05e26905f35b027a1a433064340ffd6b4d36ec66333faf2793d1453b3d2a1de",
+      "bytes": 4024
+    },
+    "recovery-bundle/asb-ratings-verified.csv": {
+      "sha256": "b5045579aa95609828b349553d67ee6c88367dcc26d995c1ae4d46707e5c85cc",
+      "bytes": 638675
+    },
+    "recovery-bundle/doping_evidence_from_results.csv": {
+      "sha256": "fa41df0a61f996ee00736fc6ded6745ab82a88240ec8ae7f3d23044dcc07b94e",
+      "bytes": 54943
+    },
+    "recovery-bundle/horses_master.csv": {
+      "sha256": "8c60229822bc5230e182fe3cecec83b4e9151e11e883d6cb07e30dcadb4c828d",
+      "bytes": 11083156
+    },
+    "recovery-bundle/drug_name_audit.csv": {
+      "sha256": "3f772964ef11d3a6763189c196a1f00c32d40dd381a74be68fd9f9f5253fe431",
+      "bytes": 1895
     },
     "doping-canonical/doping_master.csv": {
       "sha256": "0de48ea8b4f39a878dd610b02752fe6c76f0f875105744e4584054d6ce5cfb81",
