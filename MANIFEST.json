@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T09:10Z",
+  "generated_utc": "2026-11-25T10:05Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -201,6 +201,46 @@
       "sha256": "d8e21fb1167697dc2060c868375cd0768976453fcab415ba5ab582cc9b1741b5",
       "bytes": 5867
     },
+    "scrape-2026-11-25/progress.json": {
+      "sha256": "b61259e59949f200ef737c6d2d8bf0a996f4bf98e68ee7be74ceb4d936af9bb3",
+      "bytes": 177
+    },
+    "scrape-2026-11-25/raw/batch-0002.tar.gz": {
+      "sha256": "b57dab1c6846ec218f88d32401f44af2acb1c21a1bb7b22cf61e5bacb9f5dd7d",
+      "bytes": 76143
+    },
+    "scrape-2026-11-25/raw/batch-0001.tar.gz": {
+      "sha256": "51632eda439def4f38c6a3adefd4c6fcd8ea53be7049e7e59f9732d9343907d5",
+      "bytes": 94007
+    },
+    "scrape-2026-11-25/raw/batch-0005.tar.gz": {
+      "sha256": "583fcfb4ea999761deb120e13640745214a55463c11eb8fa436e4eddd2c21de3",
+      "bytes": 72428
+    },
+    "scrape-2026-11-25/raw/batch-0004.tar.gz": {
+      "sha256": "bd2299ff433b0081033a50800f5d38514a6150f720912ddc1c86da5e650bc872",
+      "bytes": 68616
+    },
+    "scrape-2026-11-25/raw/batch-0003.tar.gz": {
+      "sha256": "14ac648ec15d392f64f8e0f0beab0b6429905d27f613aabd5f86fd94b64bc5a6",
+      "bytes": 75002
+    },
+    "scrape-2026-11-25/out/coverage_report.json": {
+      "sha256": "adc35ddc6f35ac50d1b18982284087e31f859bae55e2ebb8f74fb277f8d15629",
+      "bytes": 205
+    },
+    "scrape-2026-11-25/out/new_stats_rows.csv": {
+      "sha256": "80ffb6d8bf1d6289a575c7dd14a4b18e8d8774e59a6ae669692b5fd868fe4ae7",
+      "bytes": 47585
+    },
+    "scrape-2026-11-25/out/new_race_rows.csv": {
+      "sha256": "2107a3af51c25f7a3c84c64d7e2eb3a5f0413c34e3ae1e40ce3cd5d7803cd416",
+      "bytes": 875172
+    },
+    "scrape-2026-11-25/out/new_doping.csv": {
+      "sha256": "85a77f7e4169f4908263c4075c6764e648429885581dfa8ce89477dedd02e66c",
+      "bytes": 15361
+    },
     "scrape-tools/build_exports.py": {
       "sha256": "1f2ac7ffef07ecb04a763f3e50718493e53027adcbb02f8b4be3d6df1e336c9e",
       "bytes": 4232
@@ -209,17 +249,29 @@
       "sha256": "62dd3da36906227a10a9a6a8bcdd411a52bc89d73aa86effb0eb81398b3b3d01",
       "bytes": 1628
     },
+    "scrape-tools/sync.py": {
+      "sha256": "b278b651c4de28560ba54f8dc9fd6246b95a7c35038697d99f909bbf16de44d9",
+      "bytes": 3964
+    },
     "scrape-tools/watchdog.py": {
       "sha256": "b7f82e687c3581c00a04947d12619a2846607335bfd0fa0e46eeabb8a8d395ea",
       "bytes": 689
+    },
+    "scrape-tools/keepalive.py": {
+      "sha256": "6c9f83eb0f813209f74e8a75ebe2e2eb15488d8439ea53e005b8eaa7686f3c57",
+      "bytes": 1988
     },
     "scrape-tools/parse.py": {
       "sha256": "a1da5b84254bf6b1d64a871ca74ad14ba4f729bef9f5b62424f73f6b019b00aa",
       "bytes": 3180
     },
     "scrape-tools/run.py": {
-      "sha256": "919a6dbe51aaeadb30b88c1066fc8b1a2aa47b83d79f7523763dc018413f034b",
-      "bytes": 1479
+      "sha256": "4d5eeb7b95c0593e66e9bb20153c8388eb06bda54dc42c59b0538c186071aee4",
+      "bytes": 2969
+    },
+    "scrape-tools/BACKUP-AND-RECOVERY.md": {
+      "sha256": "acdae134a5ec547949dd0f57b2e8e8b32fe5b364f73d680c8af37db49870b235",
+      "bytes": 3585
     },
     "scrape-tools/fetch.py": {
       "sha256": "383952f4e75682b1eea2e19844f655b871d4aa86d96b2f8b70638736bf7583bc",
