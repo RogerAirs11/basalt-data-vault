@@ -1,0 +1,16 @@
+name: probe
+on: workflow_dispatch
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - name: can we reach asbdavani directly?
+        run: |
+          curl -sS -o /tmp/a.html -w "direct=%{http_code} bytes=%{size_download}
+" --max-time 30 https://asbdavani.app/performance/horses/clpniifd30xrvwrdou43sfs9b/info || echo "direct FAILED"
+          grep -c "هفته" /tmp/a.html || echo "no race table in direct fetch"
+      - name: can we reach via r.jina.ai?
+        run: |
+          curl -sS -o /tmp/b.txt -w "jina=%{http_code} bytes=%{size_download}
+" --max-time 60 "https://r.jina.ai/https://asbdavani.app/performance/horses/clpniifd30xrvwrdou43sfs9b/info" || echo "jina FAILED"
+          grep -c "هفته" /tmp/b.txt || echo "no race table via jina"
