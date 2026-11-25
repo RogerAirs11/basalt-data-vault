@@ -3,6 +3,7 @@ PD='/home/user/scrape-2026-11-25/pages'
 
 def clean(s):
     s=re.sub(r'\[!\[[^\]]*\]\([^)]*\)\]\([^)]*\)','',s)   # image links
+    s=re.sub(r'!Image \d+\s*','',s)                          # stray image alt text
     s=re.sub(r'\[([^\]]*)\]\([^)]*\)',r'\1',s)            # links -> text
     s=re.sub(r'\s+',' ',s).strip()
     return s
@@ -49,7 +50,8 @@ def parse(slug):
         r['rider']=c[4] if len(c)>4 else None
         r['distance_m']=c[5] if len(c)>5 else None
         r['weight']=c[6] if len(c)>6 else None
-        r['placing']=c[7] if len(c)>7 else None
+        pl=(c[7] if len(c)>7 else None) or ''
+        r['placing']=None if re.fullmatch(r'0\s*/\s*0',pl.strip()) else pl
         r['doping']=c[8] if len(c)>8 else None
         r['time']=c[9] if len(c)>9 else None
         r['ior']=c[10] if len(c)>10 else None

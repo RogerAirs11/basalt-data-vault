@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T09:00Z",
+  "generated_utc": "2026-11-25T09:10Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -54,8 +54,8 @@
       "bytes": 5398
     },
     "MIDNIGHT-RUNBOOK.md": {
-      "sha256": "41d50bf1f2c5b60da74f2fed5f6cbe97c6ec8c5466353f87d0f36b68ec930fab",
-      "bytes": 4878
+      "sha256": "4c384e2423e45abcb9f187ebec459d3cf93f2a38a34c0588f2a9d65251857b48",
+      "bytes": 6905
     },
     "rebuild_drugs.py": {
       "sha256": "5256cca91e7ae4290ad903562aa6e1623952ea0fc3684155815be6b7e55f0625",
@@ -202,20 +202,24 @@
       "bytes": 5867
     },
     "scrape-tools/build_exports.py": {
-      "sha256": "50d6df166c89dbd4698ffa92b59766419f1c5adc95e62f7a2ab08556cff272e8",
-      "bytes": 2990
+      "sha256": "1f2ac7ffef07ecb04a763f3e50718493e53027adcbb02f8b4be3d6df1e336c9e",
+      "bytes": 4232
+    },
+    "scrape-tools/validate.py": {
+      "sha256": "62dd3da36906227a10a9a6a8bcdd411a52bc89d73aa86effb0eb81398b3b3d01",
+      "bytes": 1628
     },
     "scrape-tools/watchdog.py": {
       "sha256": "b7f82e687c3581c00a04947d12619a2846607335bfd0fa0e46eeabb8a8d395ea",
       "bytes": 689
     },
     "scrape-tools/parse.py": {
-      "sha256": "4f82ce20959088708396cf82f97cdd010fe6e022752c5b022fd611050d12952b",
-      "bytes": 3023
+      "sha256": "a1da5b84254bf6b1d64a871ca74ad14ba4f729bef9f5b62424f73f6b019b00aa",
+      "bytes": 3180
     },
     "scrape-tools/run.py": {
-      "sha256": "e10c317722e893f31ceb3ccd5f9ce7422891fbe19f9df7e7110e9e58d216d320",
-      "bytes": 1015
+      "sha256": "919a6dbe51aaeadb30b88c1066fc8b1a2aa47b83d79f7523763dc018413f034b",
+      "bytes": 1479
     },
     "scrape-tools/fetch.py": {
       "sha256": "383952f4e75682b1eea2e19844f655b871d4aa86d96b2f8b70638736bf7583bc",

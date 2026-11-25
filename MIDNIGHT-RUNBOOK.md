@@ -132,3 +132,51 @@ across the batch, this closes the largest coverage gap in the database.
 
 The new rows are written as **separate insert files**, never merged into
 `racing_results` in place, so the load can be reviewed before it lands.
+
+---
+
+# Scrape findings (measured during the run)
+
+## The site caps the race table at 20 rows
+
+Verified on مون راکت (`clpniflmw0iguwrdoiczv3isb`): the page **declares 53
+starts** but renders exactly **20 race rows**, most-recent-first, ending in
+1401/9/11. The older 33 races are simply not on the page.
+
+This is a **site-side limit, not a parser bug.** No query parameter opens it
+(`?page=2` returns the same page).
+
+## What that means for the load
+
+| Field | Complete? |
+|---|---|
+| Career summary (starts, p1/p2/p3, ratings) | ✅ **complete and authoritative** |
+| Most recent 20 races per horse | ✅ complete |
+| Races older than the last 20 | ❌ not obtainable from this page |
+
+Validation across 230 scraped horses: **83.5% exact**, 9.1% within one,
+7.4% mismatch — and every mismatch is a horse declaring >24 starts, i.e.
+exactly the truncated ones. 7 of 230 horses (3.0%) exceed 20 races.
+
+**Consequence:** load the summary for all 5,647 horses (that is real, complete
+data), and load the race rows we have, but mark horses with
+`declared_starts > rows_captured` as `career_rows_partial=1` rather than
+presenting a truncated history as complete.
+
+## Where the rest of the history might come from
+
+- `/pedigree` and `/productions` tabs — untested, blocked by rate limit at the
+  time of writing. Worth one probe before concluding.
+- A horse's full history is a *subset* of every racecard for the meetings it
+  ran at. We already hold 12,950 racecard-backed races in `racing_races`, so
+  older races may be recoverable by joining racecards rather than by scraping
+  more horse pages.
+- CommonCrawl copies of the site, which we have used successfully before.
+
+## Rate limit (hard numbers)
+
+`r.jina.ai` allows **20 requests per minute**, reported in
+`x-ratelimit-limit: 20, 20;w=60`. Bursting above it triggers 429s and takes
+minutes to recover. The working configuration is 5 worker threads sharing a
+token bucket at 18/min — sustained, zero failures. At that rate the 5,364
+remaining pages take ~5 hours.
