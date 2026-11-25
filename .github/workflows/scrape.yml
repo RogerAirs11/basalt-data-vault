@@ -1,0 +1,43 @@
+name: scrape
+
+on:
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: 'max minutes to run'
+        default: '50'
+      workers:
+        description: 'parallel workers'
+        default: '24'
+  schedule:
+    # every 4 hours, in case a long run is needed
+    - cron: '17 */4 * * *'
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_MIN: ${{ github.event.inputs.minutes || '50' }}
+          WORKERS: ${{ github.event.inputs.workers || '24' }}
+          SHARD_SIZE: '100'
+        run: |
+          python3 - <<'PY'
+          import urllib.request
+          u = ('https://raw.githubusercontent.com/RogerAirs11/basalt-data-vault/'
+               'main/scrape-tools/gha_scrape.py')
+          src = urllib.request.urlopen(u, timeout=60).read().decode()
+          open('/tmp/gha_scrape.py', 'w').write(src)
+          print('fetched scraper:', len(src), 'bytes')
+          PY
+          python3 /tmp/gha_scrape.py
