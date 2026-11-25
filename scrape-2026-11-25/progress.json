@@ -1,7 +1,7 @@
 {
- "pages_scraped": 790,
+ "pages_scraped": 811,
  "targets": 5647,
- "shards": 10,
- "updated": "2026-11-25T14:21:25Z",
+ "shards": 11,
+ "updated": "2026-11-25T14:22:35Z",
  "note": "continuous backup; raw pages in raw/*.tar.gz, load-ready CSVs alongside"
 }
