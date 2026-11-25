@@ -9,6 +9,10 @@
       "sha256": "36f3b9ea72ed3554f9cc62eae6a1036451e2aab9440450fbffced753f857b84a",
       "bytes": 934
     },
+    "STATUS-2026-11-25.md": {
+      "sha256": "cd18e5f2979e06d72bb8dd19b46934fecc8d733b72867cd1f3cabc04a2bfb1cc",
+      "bytes": 3331
+    },
     "asb-ratings-verified.csv": {
       "sha256": "b5045579aa95609828b349553d67ee6c88367dcc26d995c1ae4d46707e5c85cc",
       "bytes": 638675
