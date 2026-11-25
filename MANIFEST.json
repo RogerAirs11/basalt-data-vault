@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T09:25Z",
+  "generated_utc": "2026-11-25T09:00Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -52,6 +52,10 @@
     "doping_union.py": {
       "sha256": "3fc39eaa12f1dadf7611eb6b21edca1b8deb3f6b6d3bdb68e982a9eedf316ec7",
       "bytes": 5398
+    },
+    "MIDNIGHT-RUNBOOK.md": {
+      "sha256": "41d50bf1f2c5b60da74f2fed5f6cbe97c6ec8c5466353f87d0f36b68ec930fab",
+      "bytes": 4878
     },
     "rebuild_drugs.py": {
       "sha256": "5256cca91e7ae4290ad903562aa6e1623952ea0fc3684155815be6b7e55f0625",
@@ -189,9 +193,33 @@
       "sha256": "cd18e5f2979e06d72bb8dd19b46934fecc8d733b72867cd1f3cabc04a2bfb1cc",
       "bytes": 3331
     },
+    "rebuild_stats_from_results.py": {
+      "sha256": "37814120209adf1b1d2ba58f73c9870db54b15f2e37c96e28985af8cddccc194",
+      "bytes": 4191
+    },
     "DATABASE-STATE-2026-11-25.md": {
       "sha256": "d8e21fb1167697dc2060c868375cd0768976453fcab415ba5ab582cc9b1741b5",
       "bytes": 5867
+    },
+    "scrape-tools/build_exports.py": {
+      "sha256": "50d6df166c89dbd4698ffa92b59766419f1c5adc95e62f7a2ab08556cff272e8",
+      "bytes": 2990
+    },
+    "scrape-tools/watchdog.py": {
+      "sha256": "b7f82e687c3581c00a04947d12619a2846607335bfd0fa0e46eeabb8a8d395ea",
+      "bytes": 689
+    },
+    "scrape-tools/parse.py": {
+      "sha256": "4f82ce20959088708396cf82f97cdd010fe6e022752c5b022fd611050d12952b",
+      "bytes": 3023
+    },
+    "scrape-tools/run.py": {
+      "sha256": "e10c317722e893f31ceb3ccd5f9ce7422891fbe19f9df7e7110e9e58d216d320",
+      "bytes": 1015
+    },
+    "scrape-tools/fetch.py": {
+      "sha256": "383952f4e75682b1eea2e19844f655b871d4aa86d96b2f8b70638736bf7583bc",
+      "bytes": 904
     },
     "recovery-bundle/race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
