@@ -1,10 +1,10 @@
 {
   "generated_utc": "2026-11-25",
-  "pages_parsed": 860,
-  "pages_failed": 33,
-  "race_rows": 5467,
-  "horse_stats_rows": 860,
-  "doping_rows": 160,
-  "horses_with_doping": 124,
-  "horses_with_races": 772
+  "pages_parsed": 879,
+  "pages_failed": 34,
+  "race_rows": 5541,
+  "horse_stats_rows": 879,
+  "doping_rows": 163,
+  "horses_with_doping": 126,
+  "horses_with_races": 787
 }
