@@ -73,6 +73,14 @@
       "sha256": "c052c56603f2cca324085980fccaf455b9dcaaf125fcdc9f9f61c666e0238412",
       "bytes": 872188
     },
+    "crosswalk2.py": {
+      "sha256": "a198f91f0b5f51d5cde3230088edc57e431332408fbf7a3108b5197e024e321a",
+      "bytes": 6634
+    },
+    "fix_rows.py": {
+      "sha256": "444ea32ae2cae8d4624abe23259ed0f4abc39e56d6f378ef7afa060cac5a6bc5",
+      "bytes": 2613
+    },
     "horse_master_combined.csv": {
       "sha256": "4ceb21592389dcbe28c883105d23c779f3863b328d2ce8dc3254ebbd453cbe43",
       "bytes": 956209
@@ -101,6 +109,10 @@
       "sha256": "f15eeaf7026d90d769e51e307f2af27872df9e8e2914747346a602d9a2fda2bf",
       "bytes": 13035
     },
+    "night_load3.py": {
+      "sha256": "dd5adbff5b14fa82c7f887bae0ad4d200505f7dd387d8e191cd546ff5c849ae7",
+      "bytes": 10741
+    },
     "pedigree_edges.csv": {
       "sha256": "3194b937ae4544fd2118e96f739b24b93ca4ce651ff2704e063cd0d867553e2a",
       "bytes": 5028620
@@ -112,6 +124,10 @@
     "race_records_all.csv": {
       "sha256": "7b0418fbd46fba36ca99f172fb1be5f334e5120785df7073bda9f596f8ff2c80",
       "bytes": 5609467
+    },
+    "reload_crosswalk.py": {
+      "sha256": "464c1f65a81ecd865e3c9c641a1275a3c42ba19d505e66bfe1bd8127f39c5465",
+      "bytes": 4910
     }
   }
 }
