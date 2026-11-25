@@ -1,0 +1,26 @@
+name: extract
+on:
+  workflow_dispatch:
+concurrency:
+  group: extract
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: run extractor
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import urllib.request
+          u=('https://raw.githubusercontent.com/RogerAirs11/basalt-data-vault/'
+             'main/scrape-tools/gha_extract.py')
+          src=urllib.request.urlopen(u,timeout=60).read().decode()
+          open('/tmp/x.py','w').write(src)
+          print('fetched',len(src),'bytes')
+          PY
+          python3 /tmp/x.py
