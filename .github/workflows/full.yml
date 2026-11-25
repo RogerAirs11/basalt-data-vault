@@ -1,0 +1,27 @@
+name: full
+on:
+  workflow_dispatch:
+    inputs:
+      mode: {description: 'missing|all', default: 'missing'}
+      minutes: {description: 'max minutes', default: '40'}
+concurrency: {group: full, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: scrape all 4 tabs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODE: ${{ github.event.inputs.mode || 'missing' }}
+          MAX_MIN: ${{ github.event.inputs.minutes || '40' }}
+        run: |
+          python3 - <<'PY'
+          import urllib.request
+          u=('https://raw.githubusercontent.com/RogerAirs11/basalt-data-vault/'
+             'main/scrape-tools/gha_full.py')
+          open('/tmp/f.py','w').write(urllib.request.urlopen(u,timeout=60).read().decode())
+          print('fetched worker')
+          PY
+          python3 /tmp/f.py
