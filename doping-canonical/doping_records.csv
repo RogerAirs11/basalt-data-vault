@@ -1,0 +1,428 @@
+horse,key,source,substances,raw_text,ban,fine,ethics,coach,race,place,date,ref
+ایمان خان انفاس,ایمان خان انفاس,news,THEOPHYLLINE,تئوفیلین,۴ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال + معرفی با کمیته اخلاق,yes,آتا نفس انفاس,دوم,دوم,,https://asbdavani.app/news/dop-week11-yazd1403
+باب کت,باب کت,news,FLUNIXINE,فلونکسن,۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال + معرفی با کمیته اخلاق,yes,رسول صداقت,ششم,دوم,,https://asbdavani.app/news/dop-week11-yazd1403
+مرگن,مرگن,news,DEXAMETHASONE|KETOPROFEN|PHENYLBUTAZONE,دگزامتازون، فنیل بوتازون (اکسی فنیل بوتازون)، کتوپروفن,۲ هفته,۹۴۰/۰۰۰/۰۰۰ ریال,yes,رامین آق‌آتابای,چهارم,اول,,https://asbdavani.app/news/dop-week11-yazd1403
+یوز سومبار,یوز سومبار,news,HYDROXYZINE|XYLAZINE,زایلازین، هیدروکسی زایلازین,۴ هفته,۹۴۰/۰۰۰/۰۰۰ ریال + معرفی با کمیته اخلاق,yes,قادر رحمانی,اول,سوم,,https://asbdavani.app/news/dop-week11-yazd1403
+بست سیتی,بست سیتی,news,PROCAINE,Procaine,4 هفته,750/000/000 ریال,yes,ناصر خانپور,ششم,دوم,,https://asbdavani.app/news/iranian2000guineas-dokhoon
+تیپ بابا,تیپ بابا,news,PROCAINE,Procaine,4 هفته,670/000/000 ریال,yes,شهاب تراج,هفتم,دوم,,https://asbdavani.app/news/iranian2000guineas-dokhoon
+تیمسار,تیمسار,news,FLUNIXINE,Flunixin,2 هفته,670/000/000 ریال,yes,بهرام محمد تاتار,چهارم,اول,,https://asbdavani.app/news/ntyj-dwpyng-rwz-dwm-hfth-chhrm-bhrh-1403-gnbd
+مردان عاشوری,مردان عاشوری,news,CHLORPHENIRAMINE,Chlorpheniramine,2 هفته,670/000/000 ریال,yes,مهران عشعری,اول,اول,,https://asbdavani.app/news/ntyj-dwpyng-rwz-dwm-hfth-chhrm-bhrh-1403-gnbd
+دل ژین,دل ژین,news,LEVAMISOLE,Levamisole,8 هفته,2/010/000/000 ریال,yes,پوریا پقه,هشتم,اول,,https://asbdavani.app/news/dop-week6-gonbad
+یانار داغ گز,یانار داغ گز,news,FLUNIXINE|PHENYLBUTAZONE,"Flunixin, Phenylbutazone",4 هفته,1/340/000/000 ریال,yes,آنا نفس انفاس (علی),دوم,اول,,https://asbdavani.app/news/dop-week6-gonbad
+ریو لوکا,ریو لوکا,news,PHENYLBUTAZONE,Phenylbutazone,3 هفته,1/340/000/000 ریال,yes,صالح بردی گوگ,چهارم,اول,,https://asbdavani.app/news/dop-w5-bahar1403-gonbad
+شیطون بلا,شیطون بلا,news,PHENYLBUTAZONE,Phenylbutazone,2 هفته,670/000/000 ریال,yes,ستار مهرانی,هفتم,اول,,https://asbdavani.app/news/dop-w5-bahar1403-gonbad
+متالیکا,متالیکا,news,PHENYLBUTAZONE,Phenylbutazone,2 هفته,540/000/000 ریال,yes,کمال قربانی,ششم,دوم,,https://asbdavani.app/news/dop-w5-bahar1403-gonbad
+منظره,منظره,news,FLUNIXINE,Flunixin,2 هفته,430/000/000 ریال,yes,عبدالحکیم عطایی,ششم,اول,,https://asbdavani.app/news/dop-w5-bahar1403-gonbad
+آرال پسندی,آرال پسندی,news,CAFFEINE|EPHEDRINE|PHENYLBUTAZONE|THEOPHYLLINE,کافئین، تئوفیلین، افدرین (نور افدرین)، فنیل بوتازون (اکسی فنیل بوتازون),۱۲ هفته,۳/۰۰۰/۰۰۰/۰۰۰ ریال,yes,حامد قهرمانی,چهارم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+تایسون,تایسون,news,CLENBUTEROL,کلن بوترول,۴ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,امیر مختومی,پنجم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+آبتین,آبتین,news,FLUNIXINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,"Phenylbutazone (Oxyphenylbutazone), Flunixin",4 هفته,1/340/000/000 ریال,yes,عبدالغفور گلی,پنجم,دوم,,https://asbdavani.app/news/dop-week1-aghghala1403
+ریانا,ریانا,news,METHYLPREDNISOLONE,Methylprednisolone,2 هفته,670/000/000 ریال,yes,رحیم بردی مهرانی,سوم,دوم,,https://asbdavani.app/news/dop-week1-bandar1403
+عرشیا زرگر,عرشیا زرگر,news,PHENYLBUTAZONE,Phenylbutazone,2 هفته,430/000/000 ریال,yes,نورمحمد اوکش,هشتم,اول,,https://asbdavani.app/news/dop-week1-bandar1403
+پرنس آلپ,پرنس آلپ,news,AMPYRONE|ANTIPYRINE|METHYLAMINOANTIPYRINE,"Ampyrone, Antipyrine, Methylaminoantipyrine",۴ هفته,2/520/000/000 ریال,yes,محمد بزمونه,پنجم,اول,,https://asbdavani.app/news/dop-week1-gonbad1403
+بن زل,بن زل,news,METHYLPREDNISOLONE,Methylprednisolone,2 هفته,230/000/000 ریال,yes,سیدجمال میردهقان,ششم,اول,,https://asbdavani.app/news/doping-w10-1403-yazd
+پلنگ نی سی,پلنگ نی سی,news,DEXAMETHASONE|MORPHINE|PAPAVERINE|PHENYLBUTAZONE,"Dexamethasone, Papaverine, Phenylbutazone, Morphine",14 هفته,850/000/000 ریال,yes,رضا طهماسبی,اول,دوم,,https://asbdavani.app/news/doping-w10-1403-yazd
+پیرداد دهقان,پیرداد دهقان,news,TRIAMCINOLONE,"Triamcinolone, Acetonid",4 هفته,340/000/000 ریال,yes,مسلم فتوحی,سوم,دوم,,https://asbdavani.app/news/doping-w10-1403-yazd
+تاوانورا,تاوانورا,news,KETOPROFEN,Ketoprofen,۲ هفته,2/410/000/000 ریال,yes,عبدالخالق رهنی,پنجم,دوم,,https://asbdavani.app/news/dop-week10-aghghala1403
+خان پیکر,خان پیکر,news,THEOPHYLLINE,Theophylline,۵ هفته,1/040/000/000 ریال,yes,منوچهر قزل,سوم,اول,,https://asbdavani.app/news/dop-week10-aghghala1403
+ناز لاله,ناز لاله,news,CODEINE|LEVAMISOLE|MORPHINE|NOSCAPINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,"Morphine, Codeine, Levamisole, Phenylbutazone (Oxi Phenylbutazone), Noscapine",۲۰ هفته,5/040/000/000 ریال,yes,آق اویلی بشگرد,پنجم,اول,,https://asbdavani.app/news/dop-week10-aghghala1403
+آیان آق قلا,آیان آق قلا,news,DICLOFENAC|FLUNIXINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,"Flunixin, Diclofenac, Phenylbutazone (Oxy Phenylbutazone)",9 هفته,6/960/000/000 ریال,yes,کوروش آل جلیل,دوم,اول,,https://asbdavani.app/news/1403-02-05
+خان پیکر,خان پیکر,news,AMPYRONE|ANTIPYRINE|METHYLAMINOANTIPYRINE,"Ampyrone, Antipyrine, Methylamino Antipyrine",9 هفته,9/360/000/000 ریال,yes,منوچهر قزل,دوم,اول,,https://asbdavani.app/news/1403-02-05
+نایکی,نایکی,news,AMPYRONE|ANTIPYRINE|METHYLAMINOANTIPYRINE,"Ampyrone, Antipyrine, Methylamino Antipyrine",9 هفته,8/250/000/000 ریال,yes,علی اونق,پنجم,اول,,https://asbdavani.app/news/1403-02-05
+آرتکس,آرتکس,news,CAFFEINE|DEXAMETHASONE|DICLOFENAC|MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE|THEOPHYLLINE,"Caffeine, TheophyllineT Dexamethasone, Diclofenac, Morphine, Phenylbutazone (Oxi Phenylbutazone)",25 هفته,11/600/000/000 ریال,yes,قیوم عطایی,سوم,دوم,,https://asbdavani.app/news/1403-02-05
+حجازی,حجازی,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,کاکش عطایی,دوم,اول,,https://asbdavani.app/news/dop-week17-gonbad1403
+پاپیشکا,پاپیشکا,news,KETOPROFEN|PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون)، کتوپروفن,۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,فرهاد خانقلی‌زاده قزل,چهارم,دوم,,https://asbdavani.app/news/dop-week1-gonbad1403
+آبتین,آبتین,news,FLUNIXINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,"Flunixin, Phenylbutazone (Oxiphenylbutazone)",6 هفته,2/400/000/000 ریال,yes,عبدالغفور گلی,سوم,اول,,https://asbdavani.app/news/dop-week2-aghghala1403
+المپیک بندر,المپیک بندر,news,METHOCARBAMOL,Methocarbamol,2 هفته,670/000/000 ریال,yes,رضا کمی,پنجم,دوم,,https://asbdavani.app/news/dop-week2-aghghala1403
+دوین,دوین,news,FLUNIXINE,Flunixin,2 هفته,670/000/000 ریال,yes,قربان محمد اودک,سوم,اول,,https://asbdavani.app/news/dop-week2-aghghala1403
+لیونل من,لیونل من,news,METHYLPREDNISOLONE,Methylprednisolone,3 هفته,1/340/000/000 ریال,yes,علی اونق,دوم,دوم,,https://asbdavani.app/news/dop-week2-bandar1403
+تهمورس بردستانی,تهمورس بردستانی,news,TESTOSTERONE,تستوسترون,2 هفته,290/000/000 ریال,yes,آیت خنجرزاده,اول,اول,,https://asbdavani.app/news/1403-02-05
+پولاد شاه سرابتلخ,پولاد شاه سرابتلخ,news,CODEINE|DEXAMETHASONE|MORPHINE|PHENYLBUTAZONE,دگزامتازون، مورفین، کدئین، فنیل بوتازون (اکسی فنیل بوتازون),19 هفته,1/360/000/000 ریال,yes,نازمحمد قولرعطا,ششم,دوم,,https://asbdavani.app/news/1403-02-05
+بن سان,بن سان,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxi Phenylbutazone),۲ هفته,۱/۰۱۰/۰۰۰/۰۰۰ ریال,yes,رشید روشنی,سوم,اول,,https://asbdavani.app/news/dop-week2-gonbad1403-2
+فوکوزاوا,فوکوزاوا,news,STRYCHNINE,Strychnine,۶ هفته,۳/۲۰۰/۰۰۰/۰۰۰ ریال,yes,مصطفی عطایی,پنجم,دوم,,https://asbdavani.app/news/dop-week2-gonbad1403-2
+بیک شاه محمد,بیک شاه محمد,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,۲/۳۲۰/۰۰۰/۰۰۰ ریال,yes,رضا فهیمی,اول,دوم,,https://asbdavani.app/news/dop-week3-gonbad1404
+ری آفرودایت,ری آفرودایت,news,CAFFEINE|PHENYLBUTAZONE|THEOPHYLLINE,فنیل بوتازون (اکسی فنیل بوتازون)، کافئین، تئوفیلین,۱۲ هفته,۶/۴۸۰/۰۰۰/۰۰۰ ریال,yes,عبدالعزیز مهرانی,دوم,اول,,https://asbdavani.app/news/dop-week3-gonbad1404
+ماه گل فربد,ماه گل فربد,news,DEXAMETHASONE,دگزا متازون,۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,باقر یزدانی,سوم,اول,,https://asbdavani.app/news/dop-week3-gonbad1404
+سکویا سرداری,سکویا سرداری,news,PHENYLBUTAZONE,Phenylbutazone,2 هفته,750/000/000 ریال,yes,مهدی پناهی سقلی,دوم,اول,,https://asbdavani.app/news/dop-week3-bandar1403
+ساهم برومی,ساهم برومی,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),2 هفته,145 میلیون ریال,yes,عادل ناصری,پنجم,اول,,https://asbdavani.app/news/1403-02-05
+روبینا یوکابد,روبینا یوکابد,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxi Phenylbutazone),۲ هفته,۶۵۰/۰۰۰/۰۰۰ ریال,yes,مهران عطا,چهارم,دوم,,https://asbdavani.app/news/dop-week3-gonbad1403
+پادریان جی,پادریان جی,news,METHADONE,Methadone,۶ هفته,520/000/000 ریال,yes,ابوالفضل غمخوار,هشتم,دوم,,https://asbdavani.app/news/dop-week3-yazd1403
+پهباد الموسوی,پهباد الموسوی,news,DEXAMETHASONE|FLUNIXINE|PHENYLBUTAZONE,"Dexamethasone, Flunixin, Phenylbutazone",۶ هفته,510/000/000 ریال,yes,مصیب میرشمسی,اول,دوم,,https://asbdavani.app/news/dop-week3-yazd1403
+بارمان,بارمان,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,فنیل بوتازون، اکسی فنیل بوتازون,2 هفته,1/630/000/000 ریال,yes,امان بردی گوگ,سوم,اول,,https://asbdavani.app/news/dop-week3-4-gonbad1404
+رز بولت,رز بولت,news,ORPHENADRINE,اورفنادرین,3 هفته,3/260/000/000 ریال,yes,ناصر خانپور,هفتم,اول,,https://asbdavani.app/news/dop-week3-4-gonbad1404
+کاسیاس,کاسیاس,news,THEOPHYLLINE,تئوفیلین,4 هفته,1/630/000/000 ریال,yes,رسول صداقت,چهارم,دوم,,https://asbdavani.app/news/dop-week3-4-gonbad1404
+کاسیاس,کاسیاس,news,THEOPHYLLINE,تئوفیلین,5 هفته,4/040/000/000 ریال,yes,رسول صداقت,ششم,اول,,https://asbdavani.app/news/dop-week3-4-gonbad1404
+فوکوس لا,فوکوس لا,news,TESTOSTERONE,تستوسترون,4 هفته,2/800/000/000 ریال,yes,فرهاد کریمی,چهارم,اول,,https://asbdavani.app/news/dop-week13-gonbad1403
+مریلا,مریلا,news,CAFFEINE|DEXAMETHASONE|PHENYLBUTAZONE|THEOPHYLLINE,کافئین، تئوفیلین، دگزامتازون، فینل بوتازون (اکسی فنیل بوتازون),15 هفته,9/750/000/000 ریال,yes,قیوم عطایی,ششم,اول,,https://asbdavani.app/news/dop-week13-gonbad1403
+آژاکس,آژاکس,news,METHYLPREDNISOLONE,متیل پردنیزولون,۲ هفته,2/250/000/000 ریال,yes,عبدالحکیم بای‌پور,ششم,دوم,,https://asbdavani.app/news/dop-week16-gonbad1403
+میس آوا,میس آوا,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,2/080/000/000 ریال,yes,رشید روشنی,دوم,اول,,https://asbdavani.app/news/dop-week16-gonbad1403
+امباپه,امباپه,news,ATENOLOL|DEXAMETHASONE|PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون)، دگزامتازون، آتنولول,۶ هفته,۱/۸۸۰/۰۰۰/۰۰۰ ریال,yes,رامین ایری,چهارم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+تیمسار,تیمسار,news,METHYLPREDNISOLONE,متیل پردنیزولون,۲ هفته,۳/۶۲۰/۰۰۰/۰۰۰ ریال,yes,بهرام محمد تاتار,پنجم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+آیراتین گز,آیراتین گز,news,KETOPROFEN,Ketoprofen,3 هفته,1/080/000/000 ریال,yes,اسحاق یزدانی,اول,اول,,https://asbdavani.app/news/dop-week6-bandar1403
+بست لیدر,بست لیدر,news,KETOPROFEN,Ketoprofen,2 هفته,600/000/000 ریال,yes,خسرو برزین,چهارم,دوم,,https://asbdavani.app/news/dop-week6-bandar1403
+تیامو کمایی,تیامو کمایی,news,TESTOSTERONE,تستوسترون,4 هفته,170 میلیون ریال,yes,حیدر سواری,سوم,دوم,,https://asbdavani.app/news/dop-week6-ahvaz1403
+جنان لورانس,جنان لورانس,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),2 هفته,170 میلیون ریال,yes,محمد احمدی,اول,اول,,https://asbdavani.app/news/dop-week6-ahvaz1403
+سکوت اس تی اس,سکوت اس تی اس,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxi Phenylbutazone),۳ هفته,340/000/000 ریال,yes,سید اسماعیل حسینی,ششم,اول,,https://asbdavani.app/news/dop-week6-yazd1403
+تاوار,تاوار,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,۳/۱۲۰/۰۰۰/۰۰۰ ریال,yes,رشید روشنی,دوم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+مون رایدر,مون رایدر,news,DEXAMETHASONE,دگزامتازون,۲ هفته,۳/۴۹۰/۰۰۰/۰۰۰ ریال,yes,عیدقلی قربانی,ششم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+کوالیتی,کوالیتی,news,FLUNIXINE|MORPHINE|THEBAINE,فلونکسین، مورفین، تبائین,۱۷ هفته,۴/۷۰۰/۰۰۰/۰۰۰ ریال,yes,بهرام مهربان داشلی‌برون,سوم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+ساتراپ STS,ساتراپ sts,news,METHYLPREDNISOLONE,Methylprednisolone,4 هفته,510/000/000 ریال,yes,علی غمخوار,دوم,دوم,,https://asbdavani.app/news/ntyj-dwpyng-hfth-hftm-bhrh-1403-yzd-2
+پرچمدار رشید,پرچمدار رشید,news,METHYLPREDNISOLONE,Methylprednisolone,3 هفته,1/140/000/000 ریال,yes,علی غمخوار,هشتم,دوم,,https://asbdavani.app/news/ntyj-dwpyng-hfth-hftm-bhrh-1403-yzd-2
+آی خان یزدانی,آی خان یزدانی,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxi Phenylbutazone),۲ هفته,810/000/000 ریال,yes,جلال ایری,اول,دوم,,https://asbdavani.app/news/dop-week9-aghghala1403-2
+دیلان محمودی,دیلان محمودی,news,FLUNIXINE|LEVAMISOLE|MORPHINE,"Flunixin, Levamisole, Morphine",۱۴ هفته,4/050/000/000 ریال,yes,اسماعیل مهرانی,دوم,اول,,https://asbdavani.app/news/dop-week9-aghghala1403-2
+هورس دیر,هورس دیر,news,CAFFEINE|THEOPHYLLINE,Caffeine (Theophylline),۶ هفته,2/000/000/000 ریال,yes,تقان قلیچ فداکار,چهارم,اول,,https://asbdavani.app/news/dop-week9-aghghala1403-2
+شاهزاده کلاته,شاهزاده کلاته,news,DIMETHYLSULFOXIDE,Dimethylsulfoxide (DMSO),۲ هفته,۹۱۰/۰۰۰/۰۰۰ ریال,yes,عبدالکریم گوگ نژاد,هفتم,دوم,,https://asbdavani.app/news/1403-02-06-2
+قاراقاشقا قیداری,قاراقاشقا قیداری,news,FLUNIXINE,فلونکسین,۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,رجب‌قلیچ گوگ‌نژاد,اول,دوم,,https://asbdavani.app/news/dop-week18-gonbad1403
+جانی پرهام,جانی پرهام,news,METHYLPREDNISOLONE,متیل پردنیزولون,۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,احمد خوجملی (امیر),سوم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+رزا مونت,رزا مونت,news,TESTOSTERONE,Testosterone,4 هفته,670/000/000 ریال,yes,معین آورند,سوم,دوم,,https://asbdavani.app/news/dop-week8-bandar1403
+ون نورا,ون نورا,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxi Phenylbutazone),۲ هفته,۱/۱۳۰/۰۰۰/۰۰۰ ریال,yes,ابراهیم مهرانی,سوم,اول,,https://asbdavani.app/news/1403-02-06-2
+بوی توون,بوی توون,news,CLENBUTEROL,Clenbuterol,۴ هفته,۱۷۰/۰۰۰/۰۰۰ ریال,yes,علی دورقی,سوم,سوم,,https://asbdavani.app/news/dop-week8-yazd1403
+تیمسار,تیمسار,news,DEXAMETHASONE|METHYLPREDNISOLONE,متیل پردنیزولون، دگزامتازون,۳ هفته,۶/۷۵۰/۰۰۰/۰۰۰ ریال,yes,بهرام محمد تاتار,پنجم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+مامامیا,مامامیا,news,FLUNIXINE,فلونیکسین,۲ هفته,۱/۱۶۰/۰۰۰/۰۰۰ ریال,yes,همراه نعمتی,چهارم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+پینار حبیب لی,پینار حبیب لی,news,CAFFEINE|THEOPHYLLINE,"Caffeine, Theophyline",10 هفته,2/010/000/000 ریال,yes,آتا نفس انفاس,اول,اول,,https://asbdavani.app/news/dop-week6-gonbad1403
+ترنم سرمست,ترنم سرمست,news,METHYLPREDNISOLONE,Methylprednisolone,2 هفته,230/000/000 ریال,yes,علی غمخوار,ششم,اول,,https://asbdavani.app/news/ntyj-dwpyng-hfth-hftm-bhrh-1403-yzd
+تم بوی ای اس,تم بوی ای اس,news,FORMOTEROL,Formoterol,4 هفته,680/000/000 ریال,yes,حمید قندهاری یزدی,هفتم,دوم,,https://asbdavani.app/news/ntyj-dwpyng-hfth-hftm-bhrh-1403-yzd
+تاواش ناز,تاواش ناز,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxyphenylbutazone),2 هفته,430/000/000 ریال,yes,جمشید روشنی,سوم,اول,,https://asbdavani.app/news/dop-week7-bandar1403
+ارتش,ارتش,news,CAFFEINE,Caffeine,۶ هفته,2/000/000/000 ریال,yes,ارامحمد غفوری,پنجم,دوم,,https://asbdavani.app/news/dop-week7-aghghala1403-2
+تایگر احسان,تایگر احسان,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxiphenylbutazone),۲ هفته,810/000/000 ریال,yes,رضا فهیمی,اول,اول,,https://asbdavani.app/news/dop-week7-aghghala1403-2
+جواهر بندر,جواهر بندر,news,TRENBOLONE,"Trenbolone, Trendione",۴ هفته,650/000/000 ریال,yes,خلیل اونق,دوم,اول,,https://asbdavani.app/news/dop-week7-aghghala1403-2
+ساسان صحرایی,ساسان صحرایی,news,TESTOSTERONE,Testestrone,۴ هفته,460/000/000 ریال,yes,محمد چوبدار,پنجم,دوم,,https://asbdavani.app/news/dop-week7-yazd1403
+سالارخان حیدری,سالارخان حیدری,news,TESTOSTERONE,Testestrone,۴ هفته,170/000/000 ریال,yes,آیت خنجرزاده,اول,اول,,https://asbdavani.app/news/dop-week7-yazd1403
+رخش صحرا,رخش صحرا,news,FLUNIXINE|MEPERIDINE,فلونکسین، مپریدین,۸ هفته,۲/۲۵۰/۰۰۰/۰۰۰ ریال,yes,آتا نفس انفاس,هفتن,سوم,,https://asbdavani.app/news/dop-week17-gonbad1403
+شادن سیاهپوش,شادن سیاهپوش,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,۲/۳۲۰/۰۰۰/۰۰۰ ریال,yes,جمشید روشنی,ششم,دوم,,https://asbdavani.app/news/dop-week17-gonbad1403
+قره یل مراوه,قره یل مراوه,news,NAPROXEN,ناپروکسن,۲ هفته,۱/۰۴۰/۰۰۰/۰۰۰ ریال,yes,مهدی قوجق‌نژاد,دوم,اول,,https://asbdavani.app/news/dop-week17-gonbad1403
+دال بدو,دال بدو,news,FLUNIXINE,فلونکسین,۲ هفته,۹۴۰/۰۰۰/۰۰۰ ریال,yes,هادی امین‌پور,چهارم,دوم,,https://asbdavani.app/news/dop-week15-gonbad1403
+تایماز اس تی اس,تایماز اس تی اس,news,KETOPROFEN,Ketoprofen,۲ هفته,1/240/000/000 ریال,yes,حمید قندهاری یزدی,ششم,اول,,https://asbdavani.app/news/dop-week5-day2-yazd1403
+سورا اس تی اس,سورا اس تی اس,news,KETOPROFEN,Ketoprofen,۲ هفته,1/240/000/000 ریال,yes,حمید قندهاری یزدی,پنجم,اول,,https://asbdavani.app/news/dop-week5-day2-yazd1403
+دولفین,دولفین,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,۲/۳۲۰/۰۰۰/۰۰۰ ریال,yes,کمال قربانی,سوم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+سیل آسا,سیل آسا,news,CAFFEINE|FLUNIXINE|MORPHINE|THEOPHYLLINE,کافئین، تئوفیلین، فلونکسین، مورفین,۱۸ هفته,۶/۹۶۰/۰۰۰/۰۰۰ ریال,yes,امان یلقی,ششم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+هج نورا,هج نورا,news,CAFFEINE|PHENYLBUTAZONE|THEOPHYLLINE,کافئین، تئوفیلین، فنیل بوتازون (اکسی فنیل بوتازون),۱۲ هفته,۵/۸۰۰/۰۰۰/۰۰۰ ریال,yes,رحیم‌بردی مهرانی,ششم,دوم,,https://asbdavani.app/news/dop-week1-bandar1404
+یانارداغ دویدوخ,یانارداغ دویدوخ,news,LEVAMISOLE,لوامیزول,۶ هفته,۲/۳۲۰/۰۰۰/۰۰۰ ریال,yes,یوسف دهش,دوم,اول,,https://asbdavani.app/news/dop-week1-bandar1404
+عرشیا زرگر,عرشیا زرگر,news,FLUNIXINE,فلونکسن,۲ هفته,۱/۰۴۰/۰۰۰/۰۰۰ ریال + معرفی با کمیته اخلاق,yes,نورمحمد اوکش,سوم,دوم,,https://asbdavani.app/news/dop-week11-yazd1403
+بنیتا جابر,بنیتا جابر,news,CAFFEINE|CODEINE|MORPHINE|NOSCAPINE|THEOPHYLLINE,"Caffeine, Theophylline, Morphine (Noscapine) Codeine",۲۲ هفته,۷/۰۷۰/۰۰۰/۰۰۰ ریال,yes,علی عطایی,پنجم,دوم,,https://asbdavani.app/news/dop-week5-gonbad1403
+کلیپ سو,کلیپ سو,news,FLUNIXINE,Flunixin,2 هفته,670/000/000 ریال,yes,سبحانقلی قربانی,پنجم,دوم,,https://asbdavani.app/news/doping-payizgonbad-5-6
+آنا بست,آنا بست,news,TRIPELENNAMINE,تری پلنامین,2 هفته,1/820/000/000 ریال,yes,تویلی قربانی,ششم,دوم,,https://asbdavani.app/news/ntyj-dwpyng-hfth-pnjm-shshm-w-hftm-pyyz-1404-gnbd
+ساناتا,ساناتا,news,ORPHENADRINE,اورفنادرین,2 هفته,5/060/000/000 ریال,yes,عبدالکریم گوگ نژاد,ششم,دوم,,https://asbdavani.app/news/ntyj-dwpyng-hfth-pnjm-shshm-w-hftm-pyyz-1404-gnbd
+فوکوس بالام,فوکوس بالام,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,فنیل بوتازون، اکسی فنیل بوتازون,2 هفته,2/020/000/000 ریال,yes,محمد خوجملی,دوم,اول,,https://asbdavani.app/news/ntyj-dwpyng-hfth-pnjm-shshm-w-hftm-pyyz-1404-gnbd
+اورهان بابا,اورهان بابا,news,DICLOFENAC,دیکلوفناک,۲ هفته,۱/۱۱۶/۰۰۰/۰۰۰ ریال,yes,رجب‌محمد گوگ‌نژاد (تاشجان),ششم,اول,,https://asbdavani.app/news/dop-week14-gonbad1403
+آرتونیس,آرتونیس,news,PHENYLBUTAZONE,فنیل بوتازون (اکسی فنیل بوتازون),۲ هفته,۲/۳۲۰/۰۰۰/۰۰۰ ریال,yes,ابراهیم مهرانی,چهارم,اول,,https://asbdavani.app/news/ntyj-dwpyng-hfth-chhrm-msbqt-sbdwny-khwrs-bhr-1404-gnbd-khwws-khh-rwzhy-chhrshnbh-3-rdybhsht-jmaah-5-rdybhsht-w-shnbh-6-rdybhsht-mh-1404-brgzr-shd-bh-shrh-dhyl-mybshd
+ایلماز محسن,ایلماز محسن,news,LIDOCAINE,لیگنوکائین,۶ هفته,۱/۵۰۰/۰۰۰/۰۰۰ ریال,yes,احمد خوجملی (امیر),هفتم,اول,,https://asbdavani.app/news/ntyj-dwpyng-hfth-chhrm-msbqt-sbdwny-khwrs-bhr-1404-gnbd-khwws-khh-rwzhy-chhrshnbh-3-rdybhsht-jmaah-5-rdybhsht-w-shnbh-6-rdybhsht-mh-1404-brgzr-shd-bh-shrh-dhyl-mybshd
+مونتانا,مونتانا,news,FLUNIXINE|MORPHINE|PHENYLBUTAZONE|THEOPHYLLINE,فنیل بوتازون (اکسی فنیل بوتازون)، تئوفیلین، فلونکسین، مورفین,۱۲ هفته,۴/۶۴۰/۰۰۰/۰۰۰ ریال,yes,سبحانقلی قربانی,چهارم,اول,,https://asbdavani.app/news/ntyj-dwpyng-hfth-chhrm-msbqt-sbdwny-khwrs-bhr-1404-gnbd-khwws-khh-rwzhy-chhrshnbh-3-rdybhsht-jmaah-5-rdybhsht-w-shnbh-6-rdybhsht-mh-1404-brgzr-shd-bh-shrh-dhyl-mybshd
+می جان,می جان,news,FLUNIXINE,Flunixin,2 هفته,810/000/000 ریال,yes,سبحان بردی حاجی قوجق,اول,دوم,,https://asbdavani.app/news/dop-week4-aghghala1403
+تواب سواری,تواب سواری,news,CAFFEINE|CODEINE|MORPHINE,کافئین، کودیین، مورفین,۱۲ هفته,۵۸۰ میلیون ریال,yes,محمود مهرگان,سوم,دوم,,https://asbdavani.app/news/dop-week4-ahvaz1403
+پاشا خان آل تای,پاشا خان آل تای,news,TESTOSTERONE,تستوسترون,۴ هفته,۱۷۰ میلیون ریال,yes,عباس قنواتی,پنجم,دوم,,https://asbdavani.app/news/dop-week4-ahvaz1403
+کوالیتی,کوالیتی,news,CAFFEINE|FLUNIXINE|KETOPROFEN|OXYPHENYLBUTAZONE|PHENYLBUTAZONE|THEOPHYLLINE,"Caffeine, Theophylline, Flunixin, Ketoprofen, Phenylbutazone (Oxi Phenylbutazone)",۱۶ هفته,۶/۰۶۰/۰۰۰/۰۰۰ ریال,yes,محمد آق ارکاکلی,چهارم,دوم,,https://asbdavani.app/news/dop-w5-bahar1403-gonbad
+سکوت اس تی اس,سکوت اس تی اس,news,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,Phenylbutazone (Oxi Phenylbutazone),۲ هفته,170/000/000 ریال,yes,سید اسماعیل حسینی زارچ,پنجم,اول,,https://asbdavani.app/news/dop-week4-yazd1403
+ایران سوسنگرد,ایران سوسنگرد,news,FORMOTEROL,Formoterol,4 هفته,170/000/000 ریال,yes,عادل کعبی,دوم,اول,,https://asbdavani.app/news/dop-week11-yazd1403
+تگزاس ای اس,تگزاس ای اس,news,METHYLPREDNISOLONE,Methylprednisolone,5 هفته,1/600/000/000 ریال,yes,علی غمخوار,هشتم,دوم,,https://asbdavani.app/news/dop-week11-yazd1403
+تیریکس,تیریکس,news,ATRACURIUM|CAFFEIN|CODEINE|DEXAMETHASONE|KETOPROFEN|MORPHINE|NOSCAPINE|PAPAVERINE|PHENYLBUTAZONE|THEOPHYLLINE,"Dexamethasone, Papaverine, Pheylbutazone, Morphine, Noscapine, Atracurium, Caffein, Theophylline, Ketoprofen, Codeine",42 هفته,2/380/000/000 ریال,yes,میثاق سواری,چهارم,دوم,,https://asbdavani.app/news/dop-week11-yazd1403
+پرچمدار رشید,پرچمدار رشید,news,METHYLPREDNISOLONE,Methylprednisolone,*,معرفی به کمیته انضباطی,no,علی غمخوار,دهم,دوم,,https://asbdavani.app/news/dop-week11-yazd1403
+نیوتون,نیوتون,news,FLUNIXINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,"Flunixin, Phenylbutazone (Oxy Phenylbutazone)",5 هفته,2/250/000/000 ریال,yes,جلال دالیجه عطا,چهارم,اول,,https://asbdavani.app/news/1403-02-05
+پهلوان بندر,پهلوان بندر,news,CODEINE|FLUNIXINE|MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,"Flunixin, Morphine, Codeine, Phenylbutazone (Oxy Phenylbutazone)",21 هفته,22/500/000/000 ریال,yes,مهدی پناهی سقالی,ششم,اول,,https://asbdavani.app/news/1403-02-05
+طوفان اس تی اس,طوفان اس تی اس,results,DEXAMETHASONE,DEXAMETHASONE,,,,,,,2025-05-06,https://asbdavani.app/performance/horses/clpnij5o00y88wrdo26g8mlhz/info
+ساهم برومی,ساهم برومی,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2025-01-18,https://asbdavani.app/performance/horses/clsix9pnc000wraroe6v7y0js
+پادریان جی,پادریان جی,results,METHADONE,METHADONE,,,,,,,2024-10-05,https://asbdavani.app/performance/horses/clpnihnkw0u8owrdojlvdlhlw/info
+ایران سوسنگرد,ایران سوسنگرد,results,FORMOTEROL,FORMOTEROL,,,,,,,2024-05-26,https://asbdavani.app/performance/horses/clt3f258y000f1h21h8w796dd/info
+پرچمدار رشید,پرچمدار رشید,results,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,,,,,,2024-05-26,https://asbdavani.app/performance/horses/clpnihnno0ubhwrdo1ua714uw/info
+سروین طوس,سروین طوس,results,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,,,,,,2024-05-18,https://asbdavani.app/performance/horses/clpnijau9116ewrdorh1pge9u
+سروین طوس,سروین طوس,results,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,,,,,,2024-05-10,https://asbdavani.app/performance/horses/clpnijau9116ewrdorh1pge9u
+پرچمدار رشید,پرچمدار رشید,results,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,,,,,,2024-05-10,https://asbdavani.app/performance/horses/clpnihnno0ubhwrdo1ua714uw/info
+تم بوی ای اس,تم بوی ای اس,results,FORMOTEROL,FORMOTEROL,,,,,,,2024-05-05,https://asbdavani.app/performance/horses/clpniif300xhswrdok0rfmqiv/info
+بست سیتی,بست سیتی,results,PROCAINE,PROCAINE,,,,,,,2023-11-24,https://asbdavani.app/performance/horses/clpnihon50vb8wrdoqslwiixp/info
+تیپ بابا,تیپ بابا,results,PROCAINE,PROCAINE,,,,,,,2023-11-23,https://asbdavani.app/performance/horses/clpniie9z0wigwrdoj06uprkw
+خان اقبال,خان اقبال,results,KETOPROFEN,KETOPROFEN,,,,,,,2023-10-26,https://asbdavani.app/performance/horses/clpniifir0xy3wrdogy2p3t6c
+سرین,سرین,results,KETOPROFEN,KETOPROFEN,,,,,,,2023-09-08,https://asbdavani.app/performance/horses/clpniifbg0xq3wrdo00ixy3jx/info
+گاد آف بیوتی,گاد آف بیوتی,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2023-08-25,https://asbdavani.app/performance/horses/clpnij7t810lfwrdoon7h6odr/info
+بورگاس,بورگاس,results,DESMETHYLTRAMADOL|TRAMADOL,DESMETHYLTRAMADOL|TRAMADOL,,,,,,,2023-07-29,https://asbdavani.app/performance/horses/clpnij6090yk4wrdo8lyqvgc8
+سلطانا بوی,سلطانا بوی,results,FLUNIXINE,FLUNIXINE,,,,,,,2023-07-22,https://asbdavani.app/performance/horses/clpniho2i0upcwrdodnu24ldw
+دورنا,دورنا,results,CAFFEINE|MORPHINE,CAFEINE|MORPHINE,,,,,,,2023-07-21,https://asbdavani.app/performance/horses/clpnij6m80zaawrdot0yxm9lk
+سوشا,سوشا,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2023-07-07,https://asbdavani.app/performance/horses/clpnig9710mywwrdoqc62iv5w/info
+آرین مها,آرین مها,results,KETOPROFEN,KETOPROFEN,,,,,,,2023-06-02,https://asbdavani.app/performance/horses/clpnihmuh0tj5wrdoa4fy64h3
+صدرجهان,صدرجهان,results,CAFFEINE|PHENYLBUTAZONE,CAFEINE|PHENYLBUTAZONE,,,,,,,2023-06-02,https://asbdavani.app/performance/horses/clpnihmm20tb0wrdo5kl3jecw
+هرانوس ترکان,هرانوس ترکان,results,MORPHINE|PHENYLBUTAZONE,MORPHINE|PHENYLBUTAZONE,,,,,,,2023-05-26,https://asbdavani.app/performance/horses/clpniiedr0wmiwrdocp3a8354
+مانا اردلان,مانا اردلان,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2023-03-16,https://asbdavani.app/performance/horses/clpnihoqk0vf9wrdo09f9i26w
+امباپه,امباپه,results,CAFFEINE|FLUNIXINE,CAFEINE|FLUNIXINE,,,,,,,2023-03-03,https://asbdavani.app/performance/horses/clpniie610we5wrdo36jnxv1v
+ماه سامر ۲,ماه سامر ۲,results,FLUNIXINE,FLUNIXINE,,,,,,,2023-02-23,https://asbdavani.app/performance/horses/clpniidwk0w4mwrdoli3dzvtg
+ییلدیز,ییلدیز,results,MEPERIDINE,PETHIDINE,,,,,,,2023-02-11,https://asbdavani.app/performance/horses/clpniidg30vp5wrdo77z80x5v
+تنها,تنها,results,OMEPRAZOLE,OMEPRAZOLE,,,,,,,2023-01-12,https://asbdavani.app/performance/horses/clpnihon80vbewrdo11cap3m0/info
+مکس,مکس,results,METAMIZOLE,DIPYRONE,,,,,,,2022-12-30,https://asbdavani.app/performance/horses/clpniieq60x3mwrdokdydt0x8
+گالاند,گالاند,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2022-12-29,https://asbdavani.app/performance/horses/clpnigzsz0sdiwrdo7lpqow58/info
+ویلما,ویلما,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2022-12-23,https://asbdavani.app/performance/horses/clpniies20x5twrdologa46aa
+سایلان گلی,سایلان گلی,results,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|PHENYLBUTAZONE,,,,,,,2022-10-28,https://asbdavani.app/performance/horses/clpniif9t0xo9wrdoipj11eu3
+شهاب خان,شهاب خان,results,METAMIZOLE,DIPYRONE,,,,,,,2022-10-28,https://asbdavani.app/performance/horses/clpnihnay0ty1wrdoziku9zg4
+ریو شانی,ریو شانی,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2022-09-16,https://asbdavani.app/performance/horses/clpniho1y0uopwrdoc9cy9rv5/info
+صدرجهان,صدرجهان,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2022-09-15,https://asbdavani.app/performance/horses/clpnihmm20tb0wrdo5kl3jecw
+سکرین,سکرین,results,CODEINE|MORPHINE|PHENYLBUTAZONE,CODEINE|MORPHINE|PHENYLBUTAZONE,,,,,,,2022-08-05,https://asbdavani.app/performance/horses/clpnihoo60vcjwrdocqe1v9d0/info
+سایدن,سایدن,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2022-07-29,https://asbdavani.app/performance/horses/clpnigmfu0qyjwrdown03z2lx
+آتیلا زاگرس,آتیلا زاگرس,results,FLUNIXINE,FLUNIXINE,,,,,,,2022-07-15,https://asbdavani.app/performance/horses/clpniho2m0upiwrdont1sx5d1/info
+آتیلا زاگرس,آتیلا زاگرس,results,FLUNIXINE,FLUNIXINE,,,,,,,2022-06-24,https://asbdavani.app/performance/horses/clpniho2m0upiwrdont1sx5d1/info
+بولت گلستان,بولت گلستان,results,DEXAMETHASONE|FUROSEMIDE|KETOPROFEN|MORPHINE|OXYMORPHONE|TRIPELENNAMINE,DEXAMETHASONE|FUROSEMIDE|KETOPROFEN|MORPHINE|OXYMORPHONE|TRIPELENNAMINE,,,,,,,2022-06-24,https://asbdavani.app/performance/horses/clpniiek90wvfwrdoj81sjqla
+برزیل,برزیل,results,KETOPROFEN,KETOPROFEN,,,,,,,2022-06-03,https://asbdavani.app/performance/horses/clpnihm810t2bwrdol6fhnnt9/info
+برنا علیزاده,برنا علیزاده,results,CAFFEINE|CODEINE|MORPHINE|PAPAVERINE,CAFEINE|CODEINE|MORPHINE|PAPAVERINE,,,,,,,2022-05-13,https://asbdavani.app/performance/horses/clpnigzdt0rxcwrdo5wbtytkc/info
+ارتورول,ارتورول,results,CAFFEINE,CAFEINE,,,,,,,2022-05-12,https://asbdavani.app/performance/horses/clpnigmh50qztwrdoc8384t2c/info
+پیکاردو فاتحی,پیکاردو فاتحی,results,LIDOCAINE|SALBUTAMOL,LIDOCAINE|OH LIDOCAINE|SALBUTAMOL,,,,,,,2022-04-08,https://asbdavani.app/performance/horses/clpniido20vwuwrdo1jcdfavb/info
+بریتانیا ۲,بریتانیا ۲,results,FLUNIXINE|HYDROMORPHONE|MELOXICAM|MORPHINE,FLUNIXINE|HYDRO MORPHINE|MELOXICAM|MORPHINE,,,,,,,2022-03-11,https://asbdavani.app/performance/horses/clpnih04v0sq9wrdosfojraa2
+سکرین,سکرین,results,CODEINE|FLUNIXINE|MORPHINE|PHENYLBUTAZONE,CODEINE|FLUNIXINE|MORPHINE|PHENYLBUTAZONE,,,,,,,2022-03-03,https://asbdavani.app/performance/horses/clpnihoo60vcjwrdocqe1v9d0/info
+باده باران,باده باران,results,PROCAINE,PROCAINE,,,,,,,2022-02-18,https://asbdavani.app/performance/horses/clpniie2t0wb0wrdoxcaeeslc/info
+جولگا,جولگا,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2021-12-30,https://asbdavani.app/performance/horses/clpnigzp60s9hwrdo5we0usny/info
+یوز جینا,یوز جینا,results,CAFFEINE|LIDOCAINE|SALBUTAMOL,CAFEINE|OH LIDOCAINE|SALBUTAMOL,,,,,,,2021-12-30,https://asbdavani.app/performance/horses/clpnifwib0kb0wrdo7s0gieqp/info
+برنجی,برنجی,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2021-12-23,https://asbdavani.app/performance/horses/clpnig8oe0mdqwrdo2mb611cn/info
+تاواجیگ,تاواجیگ,results,CAFFEINE,CAFEINE,,,,,,,2021-12-02,https://asbdavani.app/performance/horses/clpnigzri0sbxwrdo9pjnq3sz/info
+آتلار,آتلار,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2021-11-05,https://asbdavani.app/performance/horses/clpnifn360k0uwrdomkoj9sj7
+بارنا آبشاهی,بارنا آبشاهی,results,CAFFEINE|PHENYLBUTAZONE,CAFEINE|PHENYLBUTAZONE,,,,,,,2021-08-13,https://asbdavani.app/performance/horses/clpnigzpg0s9swrdo4qtkvina/info
+بلک لیدی,بلک لیدی,results,MORPHINE|PHENYLBUTAZONE,MORPHINE|PHENYLBUTAZONE,,,,,,,2021-07-01,https://asbdavani.app/performance/horses/clpnigzh90s0zwrdo7kialz0a/info
+یادگار جاهد,یادگار جاهد,results,CODEINE,CODEINE,,,,,,,2021-04-04,https://asbdavani.app/performance/horses/clpnigzgv0s0iwrdoceqkhyvv
+سلطان ۳,سلطان ۳,results,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,OXYPHENYLBUTAZONE|PHENYLBUTAZONE,,,,,,,2021-03-29,https://asbdavani.app/performance/horses/clpnigzhf0s16wrdoxplqscue/info
+آدر,آدر,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2021-03-12,https://asbdavani.app/performance/horses/clpnifxgq0l8mwrdod951u3bj/info
+برنجی,برنجی,results,FLUNIXINE,FLUNIXINE,,,,,,,2021-03-11,https://asbdavani.app/performance/horses/clpnig8oe0mdqwrdo2mb611cn/info
+دان ییلدز,دان ییلدز,results,STRYCHNINE,STRYCHNINE,,,,,,,2021-02-25,https://asbdavani.app/performance/horses/clpnifmwh0jt9wrdo1ply0vfz
+پینار,پینار,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2021-02-05,https://asbdavani.app/performance/horses/clpnihml50tacwrdorhn9ppe9/info
+آتلار,آتلار,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2021-01-29,https://asbdavani.app/performance/horses/clpnifn360k0uwrdomkoj9sj7
+راکت من,راکت من,results,METHAMPHETAMINE,METHAMPHETAMINE,,,,,,,2021-01-29,https://asbdavani.app/performance/horses/clpnifx1p0krqwrdo9z1olqut/info
+بست می سلکشن,بست می سلکشن,results,CAFFEINE,CAFEINE,,,,,,,2021-01-28,https://asbdavani.app/performance/horses/clpnig9cc0n3qwrdo1gq90abw/info
+اورانیوم,اورانیوم,results,MEPERIDINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,MEPERIDINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,,,,,,,2021-01-23,https://asbdavani.app/performance/horses/clpnih0780ss6wrdoiow2og44/info
+گلدن استیت,گلدن استیت,results,MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,,,,,,,2021-01-22,https://asbdavani.app/performance/horses/clpniflnv0ihvwrdom7venppg/info
+سزار مهر,سزار مهر,results,CODEINE,CODEINE,,,,,,,2021-01-14,https://asbdavani.app/performance/horses/clpnig9gc0n7vwrdokrvebllg/info
+سیلوا گلد,سیلوا گلد,results,DEXAMETHASONE|KETOPROFEN|MELOXICAM,DEXAMETHASONE|KETOPROFEN|MELOXICAM,,,,,,,2021-01-01,https://asbdavani.app/performance/horses/clpnig8o70mdfwrdo8gfx0y4l/info
+یونی کورن,یونی کورن,results,CODEINE|MORPHINE|ORAPAVINE,CODEINE|MORPHINE|ORAPAVINE,,,,,,,2020-12-31,https://asbdavani.app/performance/horses/clpnig9dl0n4owrdohjjl7nud/info
+زیبانا,زیبانا,results,DEXAMETHASONE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,DEXAMETHASONE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,,,,,,,2020-12-17,https://asbdavani.app/performance/horses/clpnig8oc0mdmwrdozkc4n8uy/info
+آنیتا زاده میر,آنیتا زاده میر,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-12-11,https://asbdavani.app/performance/horses/clpnig8qp0mgdwrdolcxxgbga/info
+آنیتا زاده میر,آنیتا زاده میر,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-11-27,https://asbdavani.app/performance/horses/clpnig8qp0mgdwrdolcxxgbga/info
+آنیتا زاده میر,آنیتا زاده میر,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-11-13,https://asbdavani.app/performance/horses/clpnig8qp0mgdwrdolcxxgbga/info
+هانیل,هانیل,results,CODEINE,CODEINE,,,,,,,2020-11-13,https://asbdavani.app/performance/horses/clpnih00i0slmwrdo0ltzkcnb/info
+توی استوری,توی استوری,results,CODEINE,CODEINE,,,,,,,2020-11-12,https://asbdavani.app/performance/horses/clpnifxak0l1rwrdosok8r0b7/info
+آدر نالین وکیل,آدر نالین وکیل,results,ISOAMINILE,ISOAMINILE,,,,,,,2020-10-16,https://asbdavani.app/performance/horses/clpnig8tj0mjfwrdojlg20j4d/info
+خان گل,خان گل,results,CAFFEINE|CODEINE|MORPHINE|NOSCAPINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE|THEOPHYLLINE,CAFEINE|CODEINE|MORPHINE|NOSCAPINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE|THEOPHYLLINE,,,,,,,2020-10-15,https://asbdavani.app/performance/horses/clpnigyp20r5kwrdohhcmx1iy/info
+آی سودا سالار,آی سودا سالار,results,NOSCAPINE,NOSCAPINE,,,,,,,2020-10-09,https://asbdavani.app/performance/horses/clpnig8fi0m63wrdobhe5k9mj/info
+آدر نالین وکیل,آدر نالین وکیل,results,ISOAMINILE,ISOAMINILE,,,,,,,2020-10-02,https://asbdavani.app/performance/horses/clpnig8tj0mjfwrdojlg20j4d/info
+کارول اسپید,کارول اسپید,results,CAFFEINE|CODEINE|FLUNIXINE|KETOPROFEN|MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,CAFEINE|CODEINE|FLUNIXINE|KETOPROFEN|MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE,,,,,,,2020-10-02,https://asbdavani.app/performance/horses/clpnifn3z0k1pwrdop9dcpx61/info
+آیرون کو,آیرون کو,results,CODEINE,CODEINE,,,,,,,2020-09-18,https://asbdavani.app/performance/horses/clpnifwoi0kfiwrdog88vnfxf/info
+آترابان علیزاده,آترابان علیزاده,results,MORPHINE,MORPHINE,,,,,,,2020-09-11,https://asbdavani.app/performance/horses/clpnig9oo0nglwrdonldqurv8/info
+الوکینگ,الوکینگ,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2020-09-11,https://asbdavani.app/performance/horses/clpnig97r0mzowrdoev9kdtkd/info
+سام,سام,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2020-09-11,https://asbdavani.app/performance/horses/clpnifm7x0j2vwrdo7ggz6qy5/info
+آدر نالین وکیل,آدر نالین وکیل,results,ISOAMINILE,ISOAMINILE,,,,,,,2020-09-04,https://asbdavani.app/performance/horses/clpnig8tj0mjfwrdojlg20j4d/info
+آی سودا سالار,آی سودا سالار,results,NOSCAPINE,NOSCAPINE,,,,,,,2020-09-04,https://asbdavani.app/performance/horses/clpnig8fi0m63wrdobhe5k9mj/info
+امیننت,امیننت,results,DESMETHYLTRAMADOL|DICLOFENAC,DESMETHYLTRAMADOL|DICLOFENAC,,,,,,,2020-09-03,https://asbdavani.app/performance/horses/clpnigmgb0qz1wrdoqquucr7z/info
+یونی کورن,یونی کورن,results,DIISOPROPYLAMIN|METHAMPHETAMINE,DIISOPROPYLAMIN|METHAMPHETAMINE,,,,,,,2020-08-21,https://asbdavani.app/performance/horses/clpnig9dl0n4owrdohjjl7nud/info
+آترابان علیزاده,آترابان علیزاده,results,MORPHINE,MORPHINE,,,,,,,2020-02-14,https://asbdavani.app/performance/horses/clpnig9oo0nglwrdonldqurv8/info
+آمون ناصری,آمون ناصری,results,CAFFEINE,CAFEINE,,,,,,,2020-02-14,https://asbdavani.app/performance/horses/clpnig9pc0nh7wrdobppxkgft/info
+یوزپلنگ بویر احمد,یوزپلنگ بویر احمد,results,MORPHINE,MORPHINE,,,,,,,2020-02-14,https://asbdavani.app/performance/horses/clpnig9ip0nanwrdovmfgkvvf/info
+آترابان علیزاده,آترابان علیزاده,results,MORPHINE,MORPHINE,,,,,,,2020-02-07,https://asbdavani.app/performance/horses/clpnig9oo0nglwrdonldqurv8/info
+برنجی,برنجی,results,ERGONOVINE,ERGONOVINE,,,,,,,2020-02-07,https://asbdavani.app/performance/horses/clpnig8oe0mdqwrdo2mb611cn/info
+سی آر وان,سی آر وان,results,CODEINE|FLUNIXINE|MORPHINE|NOSCAPINE,CODEINE|FLUNIXINE|MORPHINE|NOSCAPINE,,,,,,,2020-02-07,https://asbdavani.app/performance/horses/clpnifxdn0l5dwrdo3iivtunq/info
+هاکتان,هاکتان,results,MORPHINE,MORPHINE,,,,,,,2020-02-07,https://asbdavani.app/performance/horses/clpnifmhp0jeiwrdot007zatz/info
+شیمبو,شیمبو,results,CODEINE|ESTRADIOL|MORPHINE|PHENYLBUTAZONE,CODEINE|ESTRADIOL|MORPHINE|PHENYLBUTAZONE,,,,,,,2020-02-06,https://asbdavani.app/performance/horses/clpnifmvy0jspwrdolq5p2u9n/info
+آمون ناصری,آمون ناصری,results,CAFFEINE,CAFEINE,,,,,,,2020-01-31,https://asbdavani.app/performance/horses/clpnig9pc0nh7wrdobppxkgft/info
+ریو کومو,ریو کومو,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-01-31,https://asbdavani.app/performance/horses/clpnifx550kv4wrdorzxdydb0/info
+ریوسانگ,ریوسانگ,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-01-31,https://asbdavani.app/performance/horses/clpnifmj50jg5wrdo9buvm3gw/info
+آل میدان,آل میدان,results,FLUNIXINE,FLUNIXINE,,,,,,,2020-01-30,https://asbdavani.app/performance/horses/clpnifn0h0jxrwrdo2zjyzeef/info
+آگوک آریاسب,آگوک آریاسب,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2020-01-24,https://asbdavani.app/performance/horses/clpnig92b0msywrdobzutp7jk/info
+یوزپلنگ بویر احمد,یوزپلنگ بویر احمد,results,MORPHINE,MORPHINE,,,,,,,2020-01-24,https://asbdavani.app/performance/horses/clpnig9ip0nanwrdovmfgkvvf/info
+المنار,المنار,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2020-01-23,https://asbdavani.app/performance/horses/clpniep9n0celwrdo6qwkkajb/info
+ملیله,ملیله,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2020-01-23,https://asbdavani.app/performance/horses/clpnifmgu0jdkwrdoqdh5ztwj
+نازقورام,نازقورام,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2020-01-23,https://asbdavani.app/performance/horses/clpnifn1n0jz1wrdoet1qnboa/info
+آمون ناصری,آمون ناصری,results,CAFFEINE,CAFEINE,,,,,,,2020-01-17,https://asbdavani.app/performance/horses/clpnig9pc0nh7wrdobppxkgft/info
+اکو شیک,اکو شیک,results,CODEINE|MORPHINE|NOSCAPINE,CODEINE|MORPHINE|NOSCAPINE,,,,,,,2020-01-17,https://asbdavani.app/performance/horses/clpnifx2x0kt3wrdoqstfia96/info
+ایل آی 2,ایل آی 2,results,MORPHINE,MORPHINE,,,,,,,2020-01-17,https://asbdavani.app/performance/horses/clpnifmkk0jhswrdoar7nhsvv/info
+سامین,سامین,results,METHAMPHETAMINE|PROCAINE,METHAMPHETAMINE|PROCAINE,,,,,,,2020-01-17,https://asbdavani.app/performance/horses/clpnifm7q0j2lwrdo6iw89spf/info
+یوزپلنگ بویر احمد,یوزپلنگ بویر احمد,results,CAFFEINE,CAFEINE,,,,,,,2020-01-17,https://asbdavani.app/performance/horses/clpnig9ip0nanwrdovmfgkvvf/info
+اسبی کو مدائن,اسبی کو مدائن,results,CAFFEINE,CAFEINE,,,,,,,2020-01-10,https://asbdavani.app/performance/horses/clpnig9js0nblwrdonpkans6i/info
+ریو جانیرو(بن),ریو جانیرو(بن),results,LEVAMISOLE,LEVAMISOLE,,,,,,,2020-01-10,https://asbdavani.app/performance/horses/clpnifwg60k92wrdo1a300hof/info
+یوزپلنگ بویر احمد,یوزپلنگ بویر احمد,results,CAFFEINE,CAFEINE,,,,,,,2020-01-10,https://asbdavani.app/performance/horses/clpnig9ip0nanwrdovmfgkvvf/info
+المنار,المنار,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2020-01-09,https://asbdavani.app/performance/horses/clpniep9n0celwrdo6qwkkajb/info
+ریوسانگ,ریوسانگ,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-01-09,https://asbdavani.app/performance/horses/clpnifmj50jg5wrdo9buvm3gw/info
+وی واش,وی واش,results,CLENBUTEROL|MORPHINE,CLENBUTEROL|MORPHINE,,,,,,,2020-01-02,https://asbdavani.app/performance/horses/clpnifmqz0jnawrdo70j7cmfc/info
+پانیک,پانیک,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2020-01-02,https://asbdavani.app/performance/horses/clpnifxbg0l2swrdo6gz8sz5y/info
+گلد بلک,گلد بلک,results,MORPHINE,MORPHINE,,,,,,,2020-01-02,https://asbdavani.app/performance/horses/clpnifmvn0jsdwrdobgy62a1z/info
+گلین سروین,گلین سروین,results,ACEPROMAZINE,ACEPROMAZINE,,,,,,,2019-12-27,https://asbdavani.app/performance/horses/clpnig96m0myiwrdo484oma06/info
+ایلیا,ایلیا,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2019-12-26,https://asbdavani.app/performance/horses/clpniflmn0ignwrdotcha8cen/info
+سپیدار سیاه پوش,سپیدار سیاه پوش,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2019-12-26,https://asbdavani.app/performance/horses/clpnig8nn0mcswrdoiulgw0xn/info
+طلا,طلا,results,LEVAMISOLE,LEVAMISOLE,,,,,,,2019-12-19,https://asbdavani.app/performance/horses/clpnifxe20l5twrdorscn57uz/info
+ریو جانیرو(بن),ریو جانیرو(بن),results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2019-12-13,https://asbdavani.app/performance/horses/clpnifwg60k92wrdo1a300hof/info
+باربارو,باربارو,results,CODEINE|MORPHINE|TRAMADOL,CODEINE|MORPHINE|TRAMADOL,,,,,,,2019-12-12,https://asbdavani.app/performance/horses/clpnig9b20n3ewrdolz8fwvn1/info
+سرخ دل,سرخ دل,results,DEXTRIRPHAN,DEXTRIRPHAN,,,,,,,2019-12-12,https://asbdavani.app/performance/horses/clpnig99r0n1xwrdo9quyzcmh/info
+توی استوری,توی استوری,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2019-12-06,https://asbdavani.app/performance/horses/clpnifxak0l1rwrdosok8r0b7/info
+آگوک آریاسب,آگوک آریاسب,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2019-11-15,https://asbdavani.app/performance/horses/clpnig92b0msywrdobzutp7jk/info
+لیدی المیرا,لیدی المیرا,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2019-11-14,https://asbdavani.app/performance/horses/clpnifxaf0l1mwrdo6b5mgzr8/info
+لیانشاه کبریا,لیانشاه کبریا,results,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|OPIATE|PHENYLBUTAZONE,,,,,,,2019-11-01,https://asbdavani.app/performance/horses/clpniegq10bd1wrdo2bsv8w6f/info
+مگنوم,مگنوم,results,MORPHINE,MORPHINE,,,,,,,2019-11-01,https://asbdavani.app/performance/horses/clpniep9q0ceowrdos3ktwhm9/info
+یزدان روستا,یزدان روستا,results,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|PHENYLBUTAZONE,,,,,,,2019-10-25,https://asbdavani.app/performance/horses/clpnig90f0mqjwrdotztrsmnr/info
+جنی ناز,جنی ناز,results,FLUNIXINE,FLUNIXINE,,,,,,,2019-10-18,https://asbdavani.app/performance/horses/clpnify4w0lv9wrdol7lh5lqm/info
+گزل شاه,گزل شاه,results,FLUNIXINE,FLUNIXINE,,,,,,,2019-10-11,https://asbdavani.app/performance/horses/clpniflr50ikzwrdod10vgs97/info
+کارول اسپید,کارول اسپید,results,PHENYLBUTAZONE,OPIATE|PHENYLBUTAZONE,,,,,,,2019-10-04,https://asbdavani.app/performance/horses/clpnifn3z0k1pwrdop9dcpx61/info
+تری گر,تری گر,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2019-09-13,https://asbdavani.app/performance/horses/clpnifm9w0j5mwrdoz6bg2q43/info
+یوز جینا,یوز جینا,results,PHENYLBUTAZONE,OPIOIDES|PHENYLBUTAZONE,,,,,,,2019-09-13,https://asbdavani.app/performance/horses/clpnifwib0kb0wrdo7s0gieqp/info
+کینگ لین,کینگ لین,results,DEXAMETHASONE,DEXAMETHASONE,,,,,,,2019-08-23,https://asbdavani.app/performance/horses/clpnifxyu0loxwrdoc0yov0k2/info
+شیدر,شیدر,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2019-07-26,https://asbdavani.app/performance/horses/clpnifmif0jfawrdo6mb3b5c0/info
+راکت من,راکت من,results,FLUNIXINE,FLUNIXINE,,,,,,,2019-07-12,https://asbdavani.app/performance/horses/clpnifx1p0krqwrdo9z1olqut/info
+بادیگارد,بادیگارد,results,PHENYLBUTAZONE,BRONCHODILATORS|PHENYLBUTAZONE,,,,,,,2019-06-06,https://asbdavani.app/performance/horses/clpniep8h0cdgwrdohmr0qc4r/info
+بادیگارد,بادیگارد,results,PHENYLBUTAZONE,BRONCHODILATORS|PHENYLBUTAZONE,,,,,,,2019-05-02,https://asbdavani.app/performance/horses/clpniep8h0cdgwrdohmr0qc4r/info
+تاپیک,تاپیک,results,CAFFEINE,CAFEINE,,,,,,,2019-05-02,https://asbdavani.app/performance/horses/clpnifmz20jwawrdon75aylae/info
+شانای عاشوری,شانای عاشوری,results,CAFFEINE|PHENYLBUTAZONE,CAFEINE|PHENYLBUTAZONE,,,,,,,2019-05-02,https://asbdavani.app/performance/horses/clpnifxw50lmjwrdojad9ebww/info
+نورآی,نورآی,results,,OPIOIDES,,,,,,,2019-05-02,https://asbdavani.app/performance/horses/clpnifmhw0jeqwrdoge5jim7n/info
+گلدن بیت,گلدن بیت,results,PHENYLBUTAZONE,BRONCHODILATORS|PHENYLBUTAZONE,,,,,,,2019-05-02,https://asbdavani.app/performance/horses/clpnifmj20jg0wrdosejby98e/info
+تاپیک,تاپیک,results,CAFFEINE,CAFEINE,,,,,,,2019-04-26,https://asbdavani.app/performance/horses/clpnifmz20jwawrdon75aylae/info
+نورآی,نورآی,results,,OPIOIDES,,,,,,,2019-04-26,https://asbdavani.app/performance/horses/clpnifmhw0jeqwrdoge5jim7n/info
+هیراد,هیراد,results,METHADONE,METHADONE,,,,,,,2019-04-25,https://asbdavani.app/performance/horses/clpnifmuv0jrlwrdoyms0svqr/info
+کارولین,کارولین,results,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|OPIOIDES|PHENYLBUTAZONE,,,,,,,2019-04-19,https://asbdavani.app/performance/horses/clpniflkl0ieowrdo2w5k1vh9/info
+کروم,کروم,results,FLUNIXINE,FLUNIXINE,,,,,,,2019-04-18,https://asbdavani.app/performance/horses/clpnifmfr0jcewrdof10xb14z/info
+میلوا,میلوا,results,DERMORPHINE,DERMORPHINE,,,,,,,2019-03-14,https://asbdavani.app/performance/horses/clpnifmxy0juvwrdofgq1jqhy/info
+سی آر وان,سی آر وان,results,FLUNIXINE,FLUNIXINE,,,,,,,2019-03-07,https://asbdavani.app/performance/horses/clpnifxdn0l5dwrdo3iivtunq/info
+بنیتا گل,بنیتا گل,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2019-03-01,https://asbdavani.app/performance/horses/clpnifmwz0jtswrdob9yrmms0/info
+شیمبو,شیمبو,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2019-02-22,https://asbdavani.app/performance/horses/clpnifmvy0jspwrdolq5p2u9n/info
+دازی,دازی,results,DEXAMETHASONE|FLUNIXINE|PHENYLBUTAZONE,DEXAMETHASONE|FLUNIXINE|PHENYLBUTAZONE,,,,,,,2019-02-15,https://asbdavani.app/performance/horses/clpnifn0o0jy0wrdo092l5kcf/info
+آلتون سا,آلتون سا,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2019-01-31,https://asbdavani.app/performance/horses/clpniflmk0igjwrdo0ocykcdz/info
+جاهیل,جاهیل,results,MORPHINE,MORPHINE,,,,,,,2019-01-31,https://asbdavani.app/performance/horses/clpnifln10ih2wrdojosnsxv0/info
+جاهیل,جاهیل,results,MORPHINE,MORPHINE,,,,,,,2019-01-25,https://asbdavani.app/performance/horses/clpnifln10ih2wrdojosnsxv0/info
+کاپریکس,کاپریکس,results,MORPHINE,MORPHINE,,,,,,,2019-01-11,https://asbdavani.app/performance/horses/clpnifm8x0j49wrdou4hq2ljw/info
+کروم,کروم,results,FLUNIXINE,FLUNIXINE,,,,,,,2019-01-03,https://asbdavani.app/performance/horses/clpnifmfr0jcewrdof10xb14z/info
+اوزان,اوزان,results,MORPHINE,MORPHINE,,,,,,,2018-12-21,https://asbdavani.app/performance/horses/clpniflgx0ibcwrdom8uo7kta/info
+اسکافیلد,اسکافیلد,results,MORPHINE,MORPHINE,,,,,,,2018-12-14,https://asbdavani.app/performance/horses/clpnifw970k35wrdoybqwqkv9/info
+اوزان,اوزان,results,MORPHINE,MORPHINE,,,,,,,2018-12-14,https://asbdavani.app/performance/horses/clpniflgx0ibcwrdom8uo7kta/info
+نورآی,نورآی,results,MORPHINE,MORPHINE,,,,,,,2018-12-14,https://asbdavani.app/performance/horses/clpnifmhw0jeqwrdoge5jim7n/info
+بادیگارد,بادیگارد,results,MORPHINE,MORPHINE,,,,,,,2018-12-07,https://asbdavani.app/performance/horses/clpniep8h0cdgwrdohmr0qc4r/info
+بادیگارد,بادیگارد,results,MORPHINE,MORPHINE,,,,,,,2018-11-30,https://asbdavani.app/performance/horses/clpniep8h0cdgwrdohmr0qc4r/info
+اریس,اریس,results,FLUNIXINE|PETHIDINE,FLUNIXINE|PHETIDINE,,,,,,,2018-11-23,https://asbdavani.app/performance/horses/clpniflkq0ietwrdo5r1om7w2/info
+بالریانقاق,بالریانقاق,results,CAFFEINE|CODEINE|DEXAMETHASONE|KETOPROFEN|LIDOCAINE|MORPHINE|PHENYLBUTAZONE|THEOPHYLLINE,CAFEINE|CODEINE|DEXAMETHASONE|KETOPROFEN|LIDOCAINE|MORPHINE|PHENYLBUTAZONE|THEOPHYLLINE,,,,,,,2018-11-16,https://asbdavani.app/performance/horses/clpniflin0icxwrdojkvw0nzq/info
+یاشار2,یاشار2,results,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,,,,2018-11-16,https://asbdavani.app/performance/horses/clpnifm2c0iwhwrdoho5e07gc/info
+آزادی,آزادی,results,DEXAMETHASONE|FLUNIXINE|PHENYLBUTAZONE,DEXAMETHASONE|FLUNIXINE|PHENYLBUTAZONE,,,,,,,2018-11-09,https://asbdavani.app/performance/horses/clpnifmx30jtwwrdoo3jez5hr/info
+راک استار,راک استار,results,MORPHINE|PHENYLBUTAZONE,MORPHINE|PHENYLBUTAZONE,,,,,,,2018-11-09,https://asbdavani.app/performance/horses/clpnifmsi0joywrdovfts7d27/info
+ملکه جهان,ملکه جهان,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2018-10-26,https://asbdavani.app/performance/horses/clpnifmrj0jnuwrdouas7wisr/info
+پانتی,پانتی,results,CAFFEINE|DEXAMETHASONE|KETOPROFEN|PHENYLBUTAZONE,CAFEINE|DEXAMETHASONE|KETOPROFEN|PHENYLBUTAZONE,,,,,,,2018-10-26,https://asbdavani.app/performance/horses/clpnifm980j4owrdomzzn6oa6/info
+کورلین,کورلین,results,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|PHENYLBUTAZONE,,,,,,,2018-10-26,https://asbdavani.app/performance/horses/clpnifm1i0ivlwrdoikn8j1ro/info
+یاشار2,یاشار2,results,FLUNIXINE,FLUNIXINE,,,,,,,2018-10-19,https://asbdavani.app/performance/horses/clpnifm2c0iwhwrdoho5e07gc/info
+ادهم مختار,ادهم مختار,results,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|PHENYLBUTAZONE,,,,,,,2018-10-12,https://asbdavani.app/performance/horses/clpnifwps0kg3wrdo5uykwyh2/info
+پانتی,پانتی,results,CAFFEINE|DEXAMETHASONE|THEOBROMINE|THEOPHYLLINE,CAFEINE|DEXAMETHASONE|THEOBROMINE|THEOPHYLLINE,,,,,,,2018-10-12,https://asbdavani.app/performance/horses/clpnifm980j4owrdomzzn6oa6/info
+آرنکا,آرنکا,results,CAFFEINE|FLUNIXINE|PHENYLBUTAZONE,CAFEINE|FLUNIXINE|PHENYLBUTAZONE,,,,,,,2018-09-21,https://asbdavani.app/performance/horses/clpnifn010jxbwrdo6fyssyah/info
+دازجاوید,دازجاوید,results,CODEINE|DEXAMETHASONE|MORPHINE|PHENYLBUTAZONE,CODEINE|DEXAMETHASONE|MORPHINE|PHENYLBUTAZONE,,,,,,,2018-08-03,https://asbdavani.app/performance/horses/clpnifm8j0j3nwrdouh0zfyi6/info
+کورلین,کورلین,results,METAMIZOLE|PHENYLBUTAZONE,DIPYRONE|PHENYLBUTAZONE,,,,,,,2018-07-06,https://asbdavani.app/performance/horses/clpnifm1i0ivlwrdoikn8j1ro/info
+اورگیت,اورگیت,results,MORPHINE,MORPHINE,,,,,,,2018-05-11,https://asbdavani.app/performance/horses/clpniflqw0ikqwrdo4c1jjjln/info
+تونیکس,تونیکس,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2018-05-10,https://asbdavani.app/performance/horses/clpnifmv80js0wrdo9ar0t74p/info
+کورلین,کورلین,results,DIAZEPAM METABOLITES|METHYLAMINOANTIPYRINE|PHENYLBUTAZONE,DIAZEPAM METABOLITES|METHYLAMINO ANTYPIYRINE|PHENYLBUTAZONE,,,,,,,2018-05-10,https://asbdavani.app/performance/horses/clpnifm1i0ivlwrdoikn8j1ro/info
+گلدبوی,گلدبوی,results,DEXAMETHASONE|GHRP-6|PHENYLBUTAZONE,DEXAMETHASONE|GHRP-6|PHENYLBUTAZONE,,,,,,,2018-05-10,https://asbdavani.app/performance/horses/clpniflyw0isowrdo3iw1cg60/info
+پارما,پارما,results,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,,,,2018-05-04,https://asbdavani.app/performance/horses/clpnifmry0jocwrdo5j3l8tvs/info
+تری گر,تری گر,results,CAFFEINE|FLUNIXINE|PHENYLBUTAZONE,CAFEINE|FLUNIXINE|PHENYLBUTAZONE,,,,,,,2018-05-03,https://asbdavani.app/performance/horses/clpnifm9w0j5mwrdoz6bg2q43/info
+سویلای,سویلای,results,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,,,,2018-05-03,https://asbdavani.app/performance/horses/clpniephi0cm2wrdokhk890on/info
+دل آرا 3,دل آرا 3,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2018-04-27,https://asbdavani.app/performance/horses/clpnifljj0idlwrdomo9ma89n/info
+مردانه رحمتی,مردانه رحمتی,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2018-04-20,https://asbdavani.app/performance/horses/clpniflk50ie7wrdottjsp8l7/info
+آلتون آتا,آلتون آتا,results,CODEINE|MORPHINE|NOSCAPINE|PHENYLBUTAZONE,CODEINE|MORPHINE|NOSCAPINE|PHENYLBUTAZONE,,,,,,,2018-04-13,https://asbdavani.app/performance/horses/clpniflpn0ijkwrdoo1s3weih/info
+مردانه رحمتی,مردانه رحمتی,results,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,,,,2018-04-13,https://asbdavani.app/performance/horses/clpniflk50ie7wrdottjsp8l7/info
+تامارا,تامارا,results,PROMAZINE SULFOXIDE,PROMAZINE SULFOXIDE,,,,,,,2018-04-06,https://asbdavani.app/performance/horses/clpnifljz0ie1wrdo2zt2uba6/info
+رزا مونت,رزا مونت,racecard,TESTOSTERONE,TESTOSTERONE,,,,معین آورند,,,2024-08-02,https://asbdavani.app/racecards/clz3nb16j0003pk0108g4dl56?round=5
+آدولف,آدولف,racecard,FLUNIXINE|MORPHINE|PHENYLBUTAZONE,FLUNIXINE|MORPHINE|PHENYLBUTAZONE,,,,یونس معتبری,,,2024-08-01,https://asbdavani.app/racecards/clz4gay5k0003p0011tp30q9y?round=3
+ادرمن,ادرمن,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,قربان محمد قولرعطا,,,2024-06-14,https://asbdavani.app/racecards/clx6hsj4s0003lg01z2132no4?round=5
+لیونل من,لیونل من,racecard,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,,,علی اونق,,,2024-06-14,https://asbdavani.app/racecards/clx6hsj4s0003lg01z2132no4?round=5
+آنیتا زاده میر,آنیتا زاده میر,racecard,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,جلال غفوریان,,,2020-11-13,https://asbdavani.app/racecards/clpniqu812fvuwrdo8t6d8zw6?round=4
+هج دیت,هج دیت,racecard,ERGONOVINE,ERGONOVINE,,,,عبدالستار توفیقی نژاد,,,2021-03-28,https://asbdavani.app/racecards/clpniqvw22griwrdoq1rrpnmv?round=3
+میشل مک لارن,میشل مک لارن,racecard,METHOCARBAMOL,METHOCARBAMOL,,,,نورمحمد بشگرد,,,2021-09-18,https://asbdavani.app/racecards/clpniqwih2h4ywrdobhrb4fh9?round=4
+ریبل خان,ریبل خان,racecard,DEXAMETHASONE|KETOPROFEN|MELOXICAM,DEXAMETHASONE|KETOPROFEN|MELOXICAM,,,,عبدالعزیز اونق(عبدالعظیم),,,2022-01-20,https://asbdavani.app/racecards/clpniqxxa2hwuwrdo29fa2cgw?round=2
+ایران مهر,ایران مهر,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,جلال حاجی زاده,,,2022-02-18,https://asbdavani.app/racecards/clpniqyap2i41wrdo8ccre0ry?round=2
+استیو سیتی,استیو سیتی,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,قربان محمد گری,,,2022-03-10,https://asbdavani.app/racecards/clpniqynq2i9kwrdovuy3ad8i?round=5
+نیو سامر,نیو سامر,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,مهران یلقی,,,2022-05-05,https://asbdavani.app/racecards/clpnisq3s2ih2wrdoi0f7smq6?round=7
+ارتورول,ارتورول,racecard,CAFFEINE,CAFEINE,,,,ملا اویس رنجبر,,,2022-05-12,https://asbdavani.app/racecards/clpnisq762iipwrdovpmpnl5y?round=3
+سلطان سنجر,سلطان سنجر,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,محمد آق ارکاکلی,,,2022-11-04,https://asbdavani.app/racecards/clpnisr5m2j2vwrdonc2z9dig?round=2
+ایل ماه,ایل ماه,racecard,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|PHENYLBUTAZONE,,,,سبحان پقه,,,2022-11-04,https://asbdavani.app/racecards/clpnisr5m2j2vwrdonc2z9dig?round=2
+اولکام ناراقیز,اولکام ناراقیز,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,عبدالرحمان پرویز,,,2022-11-04,https://asbdavani.app/racecards/clpnisr5m2j2vwrdonc2z9dig?round=2
+یادگار کم,یادگار کم,racecard,METAMIZOLE,DIPYRONE,,,,رحیم کم,,,2022-11-10,https://asbdavani.app/racecards/clpnisr8i2j49wrdofnbf3aqf?round=5
+سلهان,سلهان,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,بهزاد خوجملی,,,2022-12-09,https://asbdavani.app/racecards/clpnisrjy2jbkwrdod1paj27m?round=6
+فوکوس بی,فوکوس بی,racecard,EPHEDRINE|PHENYLBUTAZONE,EPHEDRINE|PHENYLBUTAZONE,,,,مرتضی ناظری,,,2022-12-09,https://asbdavani.app/racecards/clpnisrjy2jbkwrdod1paj27m?round=6
+ویلما,ویلما,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,عبدالعزیز مهرانی,,,2022-12-23,https://asbdavani.app/racecards/clpnisrpe2jedwrdoc44uyb7s?round=5
+مکس,مکس,racecard,METAMIZOLE,DIPYRONE,,,,طواق بردی خوجه پور,,,2022-12-30,https://asbdavani.app/racecards/clpnisrqx2jfdwrdopusyni14?round=2
+تنها,تنها,racecard,OMEPRAZOLE,OMEPRAZOLE,,,,معین آورند,,,2023-01-12,https://asbdavani.app/racecards/clpnisrtg2jh2wrdo2vp65kll?round=5
+ییلدیز,ییلدیز,racecard,MEPERIDINE,PETHIDINE,,,,خدای بردی آرخی,,,2023-02-11,https://asbdavani.app/racecards/clpnissg12joawrdo94n013ut?round=6
+ایمپالا,ایمپالا,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,محمد خوجملی,,,2023-02-17,https://asbdavani.app/racecards/clpnissk62jqbwrdo54f9rbue?round=3
+باراد باغ سبز,باراد باغ سبز,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,اسحاق یزدانی,,,2023-02-24,https://asbdavani.app/racecards/clpnissni2js6wrdo0dtej8bc?round=7
+گویان,گویان,racecard,CODEINE|FLUNIXINE|MORPHINE|PHENYLBUTAZONE,CODEINE|FLUNIXINE|MORPHINE|PHENYLBUTAZONE,,,,,,,2023-03-17,https://asbdavani.app/racecards/clpnist0t2jy3wrdo9gdlftl3?round=3
+ییلدیز,ییلدیز,racecard,CAFFEINE|MEPERIDINE,CAFEINE|PETHIDINE,,,,خدای بردی آرخی,,,2023-05-04,https://asbdavani.app/racecards/clpnistc72k32wrdomr0z95yl?round=3
+لاس وگاس,لاس وگاس,racecard,CAFFEINE|MORPHINE|PHENYLBUTAZONE,CAFEINE|MORPHINE|PHENYLBUTAZONE,,,,جبارصالح پور,,,2023-05-05,https://asbdavani.app/racecards/clpnistd62k3nwrdog12mtuqp?round=6
+آلما,آلما,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,تویلی قربانی,,,2023-05-19,https://asbdavani.app/racecards/clpnistor2k71wrdorr9ft63o?round=6
+جواهر شاد معظمی,جواهر شاد معظمی,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,عبدالرحیم نورانی ,,,2023-05-19,https://asbdavani.app/racecards/clpnistor2k71wrdorr9ft63o?round=6
+توتیلاس,توتیلاس,racecard,CAFFEINE|PHENYLBUTAZONE,CAFEINE|PHENYLBUTAZONE,,,,شهرام خوجملی,,,2023-05-19,https://asbdavani.app/racecards/clpnistor2k71wrdorr9ft63o?round=6
+هرانوس ترکان,هرانوس ترکان,racecard,MORPHINE|PHENYLBUTAZONE,MORPHINE|PHENYLBUTAZONE,,,,عبدالصمد خوجملی,,,2023-05-26,https://asbdavani.app/racecards/clpnistqq2k85wrdom7d9n900?round=3
+توران بای سنگسار,توران بای سنگسار,racecard,METHOCARBAMOL,METHOCARBAMOL,,,,میکائیل توماچ,,,2023-05-26,https://asbdavani.app/racecards/clpnistqq2k85wrdom7d9n900?round=3
+آسانا,آسانا,racecard,CAFFEINE|FLUNIXINE|PHENYLBUTAZONE,CAFEINE|FLUNIXINE|PHENYLBUTAZONE,,,,حاج امان تیرغم,,,2023-05-26,https://asbdavani.app/racecards/clpnistqq2k85wrdom7d9n900?round=3
+آرین مها,آرین مها,racecard,KETOPROFEN,KETOPROFEN,,,,امین آق ارکاکلی,,,2023-06-02,https://asbdavani.app/racecards/clpnistsg2k95wrdowqfunogz?round=5
+مای سان,مای سان,racecard,MORPHINE|PHENYLBUTAZONE,MORPHINE|PHENYLBUTAZONE,,,,یعقوب طاهری نیا,,,2023-06-02,https://asbdavani.app/racecards/clpnistsg2k95wrdowqfunogz?round=5
+صدرجهان,صدرجهان,racecard,CAFFEINE|PHENYLBUTAZONE,CAFEINE|PHENYLBUTAZONE,,,,ابراهیم خوجملی,,,2023-06-02,https://asbdavani.app/racecards/clpnistsg2k95wrdowqfunogz?round=5
+آسانا,آسانا,racecard,KETOPROFEN|PHENYLBUTAZONE,KETOPROFEN|PHENYLBUTAZONE,,,,حاج امان تیرغم,,,2023-06-11,https://asbdavani.app/racecards/clpnistu12ka5wrdo2c30rxal?round=4
+سایلان گلی,سایلان گلی,racecard,DESMETHYLTRAMADOL,DESMETHYLTRAMADOL,,,,اسحاق یلمه,,,2023-06-11,https://asbdavani.app/racecards/clpnistu12ka5wrdo2c30rxal?round=4
+آریا قلی زاده,آریا قلی زاده,racecard,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,فرشاد خطیب,,,2023-06-22,https://asbdavani.app/racecards/clpnistwr2kbowrdobs37pjat?round=1
+نیو سامر,نیو سامر,racecard,FLUNIXINE,FLUNIXINE,,,,صابر دردایی,,,2023-06-22,https://asbdavani.app/racecards/clpnistwr2kbowrdobs37pjat?round=1
+آلن صوفیان,آلن صوفیان,racecard,METAMIZOLE,DIPYRONE,,,,منوچهر قزل,,,2023-06-30,https://asbdavani.app/racecards/clpnistyk2kcswrdorg8nycje?round=3
+سوشا,سوشا,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,عبدی قلرعطا,,,2023-07-07,https://asbdavani.app/racecards/clpnisu0w2kdwwrdot2xhazzh?round=1
+آلن صوفیان,آلن صوفیان,racecard,METAMIZOLE,DIPYRONE,,,,منوچهر قزل,,,2023-07-21,https://asbdavani.app/racecards/clpnisu4a2kfdwrdo78byb5rx?round=2
+دورنا,دورنا,racecard,CAFFEINE|MORPHINE,CAFEINE|MORPHINE,,,,عبدی قلرعطا,,,2023-07-21,https://asbdavani.app/racecards/clpnisu4a2kfdwrdo78byb5rx?round=2
+بورگاس,بورگاس,racecard,DESMETHYLTRAMADOL|TRAMADOL,DESMETHYLTRAMADOL|TRAMADOL,,,,عزت امانپور,,,2023-07-29,https://asbdavani.app/racecards/clpnisu6a2kgjwrdo1utc6wkp?round=5
+امپریال قریشی ها,امپریال قریشی ها,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,امین آق ارکاکلی,,,2023-07-29,https://asbdavani.app/racecards/clpnisu6a2kgjwrdo1utc6wkp?round=5
+اسپارتاکوس ترکان,اسپارتاکوس ترکان,racecard,PROCAINE,PROCAINE,,,,بهرام جرجانی ,,,2023-07-30,https://asbdavani.app/racecards/clpnisu7n2kh0wrdo75vf0d5v?round=2
+امپایر ای تی سی,امپایر ای تی سی,racecard,FLUNIXINE|MORPHINE,FLUNIXINE|MORPHINE,,,,عبدالرسول خرمالی,,,2023-07-30,https://asbdavani.app/racecards/clpnisu7n2kh0wrdo75vf0d5v?round=2
+گاد آف بیوتی,گاد آف بیوتی,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,یاشار آق,,,2023-08-25,https://asbdavani.app/racecards/clpnisuex2kk0wrdoimztw4k3?round=2
+آلن صوفیان,آلن صوفیان,racecard,DICLOFENAC,DICLOFENAC,,,,منوچهر قزل,,,2023-08-25,https://asbdavani.app/racecards/clpnisuex2kk0wrdoimztw4k3?round=2
+سرین,سرین,racecard,KETOPROFEN,KETOPROFEN,,,,منوچهر قزل,,,2023-09-08,https://asbdavani.app/racecards/clpnisuhg2kl0wrdo56fjih6n?round=5
+دلشاه,دلشاه,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,جواد آچاک,,,2023-09-29,https://asbdavani.app/racecards/clpnisupd2kndwrdou4gowjlw?round=2
+دلشاه,دلشاه,racecard,FLUNIXINE,FLUNIXINE,,,,طواق یلمه,,,2023-10-08,https://asbdavani.app/racecards/clpnisuss2kofwrdoli58bph4?round=2
+بلژیک,بلژیک,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,صالح بردی گوگ,,,2023-10-15,https://asbdavani.app/racecards/clpnisuww2kq4wrdoi6jqf9ot?round=4
+بست سیتی,بست سیتی,racecard,PROCAINE,PROCAINE,,,,نورقلیچ قربانی,,,2023-11-24,https://asbdavani.app/racecards/clpnisvgw2kyewrdowxg6agis?round=1
+لوین,لوین,racecard,PROCAINE,PROCAINE,,,,ناصر خانپور,,,2023-11-24,https://asbdavani.app/racecards/clpnisvgw2kyewrdowxg6agis?round=1
+کلیپ سو,کلیپ سو,racecard,FLUNIXINE,FLUNIXINE,,,,سبحانقلی قربانی,,,2023-12-07,https://asbdavani.app/racecards/clpojyk4h000hranirg5f3jk3?round=6
+مردان عاشوری,مردان عاشوری,racecard,CHLORPHENIRAMINE,CHLORPHENIRAMINE,,,,مهران عشعری,,,2024-05-03,https://asbdavani.app/racecards/clvgwkx0s00jq1hx5ilmtetsj?round=4
+تیمسار,تیمسار,racecard,FLUNIXINE,FLUNIXINE,,,,بهرام محمد تاتار,,,2024-05-03,https://asbdavani.app/racecards/clvgwkx0s00jq1hx5ilmtetsj?round=4
+کارن حسین پور,کارن حسین پور,racecard,STRYCHNINE,STRYCHNINE,,,,محسن نجفی معصوم,,,2024-05-03,https://asbdavani.app/racecards/clvgwkx0s00jq1hx5ilmtetsj?round=4
+آلتین بالام,آلتین بالام,racecard,TRIPELENNAMINE,TRIPELENNAMINE,,,,هادی امین پور,,,2024-05-03,https://asbdavani.app/racecards/clvgwkx0s00jq1hx5ilmtetsj?round=4
+گلناز خمبر,گلناز خمبر,racecard,ATRACURIUM|CAFFEINE|CODEINE|MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE|THEOPHYLLINE,ATRACURIUM|CAFEINE|CODEINE|MORPHINE|OXYPHENYLBUTAZONE|PHENYLBUTAZONE|THEOPHYLLINE,,,,عمر مهرانی,,,2024-05-02,https://asbdavani.app/racecards/clvjz91ic00ib1h7n33k2a537?round=5
+تندناز,تندناز,racecard,CAFFEINE|CYPROHEPTADINE|DEXAMETHASONE|MORPHINE|PHENYLBUTAZONE|THEOPHYLLINE,CAFEINE|CYPROHEPTADINE|DEXAMETHASONE|MORPHINE|PHENYLBUTAZONE|THEOPHYLLINE,,,,,,,2024-05-17,https://asbdavani.app/racecards/clw0d86pb000ck0011xkyphsx?round=1
+شیطون بلا,شیطون بلا,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,ستار مهرانی,,,2024-05-17,https://asbdavani.app/racecards/clw0d86pb000ck0011xkyphsx?round=1
+هوری هج,هوری هج,racecard,ATRACURIUM|CODEINE|MORPHINE|NOSCAPINE,ATRACURIUM|CODEINE|MORPHINE|NOSCAPINE,,,,ابراهیم قلرعطا,,,2024-05-17,https://asbdavani.app/racecards/clw0d86pb000ck0011xkyphsx?round=1
+متالیکا,متالیکا,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,کمال قربانی,,,2024-05-17,https://asbdavani.app/racecards/clw0d86pb000ck0011xkyphsx?round=1
+ریو لوکا,ریو لوکا,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,صالح بردی گوگ,,,2024-05-17,https://asbdavani.app/racecards/clw0d86pb000ck0011xkyphsx?round=1
+منظره,منظره,racecard,FLUNIXINE,FLUNIXINE,,,,عبدالحکیم عطایی,,,2024-05-16,https://asbdavani.app/racecards/clw2d6y5o000nmi01ypn2j0su?round=3
+سرکان,سرکان,racecard,FLUNIXINE|LIDOCAINE|PHENYLBUTAZONE,FLUNIXINE|LIGNOCAINE|PHENYLBUTAZONE,,,,مجید صالح پور,,,2024-05-16,https://asbdavani.app/racecards/clw2d6y5o000nmi01ypn2j0su?round=3
+بولت گلستان,بولت گلستان,racecard,LEVAMISOLE,LEVAMISOLE,,,,امین قرنجیک,,,2024-05-31,https://asbdavani.app/racecards/clwauc7ta005drn01m2kgy8zg?round=2
+دل ژین,دل ژین,racecard,LEVAMISOLE,LEVAMISOLE,,,,پوریا پقه,,,2024-05-31,https://asbdavani.app/racecards/clwauc7ta005drn01m2kgy8zg?round=2
+یانارداغ گز,یانارداغ گز,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,آنا نفس انفاس(علی),,,2024-05-30,https://asbdavani.app/racecards/clwchf1p00018ql01ue4qyfo2?round=1
+وانیلا,وانیلا,racecard,KETOPROFEN,KETOPROFEN,,,,حکیم سوقی,,,2024-06-08,https://asbdavani.app/racecards/clwv8aqj20004rt01y87h61sf?round=3
+ریانا,ریانا,racecard,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,,,رحیم بردی مهرانی,,,2024-06-08,https://asbdavani.app/racecards/clwv8aqj20004rt01y87h61sf?round=3
+عرشیا زرگر,عرشیا زرگر,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,نور محمد اوکش,,,2024-06-08,https://asbdavani.app/racecards/clwv8aqj20004rt01y87h61sf?round=3
+فوکوس سرخ,فوکوس سرخ,racecard,FLUNIXINE,FLUNIXINE,,,,سعید صحنه,,,2024-06-06,https://asbdavani.app/racecards/clwwke0yb0003k301zuscb151?round=7
+پینار حبیب لی,پینار حبیب لی,racecard,CAFFEINE|THEOPHYLLINE,CAFEINE|THEOPHYLLINE,,,,آتا نفس انفاس,,,2024-06-06,https://asbdavani.app/racecards/clwwke0yb0003k301zuscb151?round=7
+سکویا سرداری,سکویا سرداری,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,مهدی پناهی سقالی,,,2024-06-21,https://asbdavani.app/racecards/clxfn1rty0003ua01oy4cpubq?round=5
+بست لیدر,بست لیدر,racecard,KETOPROFEN,KETOPROFEN,,,,خسرو برزین,,,2024-07-18,https://asbdavani.app/racecards/clykf73j1000xtd01yuimw2zy?round=5
+آیراتین گز,آیراتین گز,racecard,KETOPROFEN,KETOPROFEN,,,,اسحاق یزدانی,,,2024-07-18,https://asbdavani.app/racecards/clykf73j1000xtd01yuimw2zy?round=5
+واشینگتن,واشینگتن,racecard,FLUNIXINE,FLUNIXINE,,,,سعید صحنه,,,2024-07-18,https://asbdavani.app/racecards/clykf73j1000xtd01yuimw2zy?round=5
+داز عارف,داز عارف,racecard,CAFFEINE|FLUNIXINE|MEPERIDINE|THEOPHYLLINE,CAFEINE|FLUNIXINE|MEPERIDINE|THEOPHYLLINE,,,,بهرام محمد تاتار,,,2024-07-18,https://asbdavani.app/racecards/clykf73j1000xtd01yuimw2zy?round=5
+تاواش ناز,تاواش ناز,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,جمشید روشنی,,,2024-07-26,https://asbdavani.app/racecards/clytky5kh003ipk01sqreacdh?round=2
+دربند,دربند,racecard,FLUNIXINE,FLUNIXINE,,,,کمال دالی جه عطا,,,2024-07-26,https://asbdavani.app/racecards/clytky5kh003ipk01sqreacdh?round=2
+آبتین,آبتین,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,عبدالغفور گلی,,,2024-08-16,https://asbdavani.app/racecards/clznnd6t300dcpe01woqy7fn7?round=1
+ریو لاو,ریو لاو,racecard,LEVAMISOLE,LEVAMISOLE,,,,ارازگلدی اونق,,,2024-08-16,https://asbdavani.app/racecards/clznnd6t300dcpe01woqy7fn7?round=1
+شهاب خان,شهاب خان,racecard,METAMIZOLE,DIPYRONE,,,,آنه گلدی اونق,,,2022-10-28,https://asbdavani.app/racecards/clpnisr302j1lwrdo3pzfr3tw?round=7
+بای بای سلاق,بای بای سلاق,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,محمد گوگ نژاد(نظرمحمد),,,2022-10-28,https://asbdavani.app/racecards/clpnisr302j1lwrdo3pzfr3tw?round=7
+سایلان گلی,سایلان گلی,racecard,DEXAMETHASONE|PHENYLBUTAZONE,DEXAMETHASONE|PHENYLBUTAZONE,,,,ضیاء سخاوت,,,2022-10-28,https://asbdavani.app/racecards/clpnisr302j1lwrdo3pzfr3tw?round=7
+قدردان,قدردان,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,محمد آق ارکاکلی,,,2022-10-28,https://asbdavani.app/racecards/clpnisr302j1lwrdo3pzfr3tw?round=7
+ماه سامر ۲,ماه سامر ۲,racecard,FLUNIXINE,FLUNIXINE,,,,مهدی خوجملی,,,2023-02-23,https://asbdavani.app/racecards/clpnissmd2jrjwrdo48u7tol7?round=6
+فنیکس,فنیکس,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,جلال قلرعطا,,,2023-02-23,https://asbdavani.app/racecards/clpnissmd2jrjwrdo48u7tol7?round=6
+سوپر ماریو,سوپر ماریو,racecard,LIDOCAINE|SALBUTAMOL,OH LIDOCAINE|SALBUTAMOL,,,,صابر دردایی,,,2023-02-23,https://asbdavani.app/racecards/clpnissmd2jrjwrdo48u7tol7?round=6
+پرنسس شاه فارهه,پرنسس شاه فارهه,racecard,FLUNIXINE,FLUNIXINE,,,,قارمحمد گری,,,2023-03-10,https://asbdavani.app/racecards/clpnissvu2jvuwrdoic5k5e3c?round=8
+ارمیا نور,ارمیا نور,racecard,FLUNIXINE,FLUNIXINE,,,,قارمحمد گری,,,2023-10-27,https://asbdavani.app/racecards/clpnisv7x2kt6wrdoigd9hyld?round=4
+وولکان,وولکان,racecard,FLUNIXINE,FLUNIXINE,,,,یعقوب ایری,,,2019-06-21,https://asbdavani.app/racecards/clpnioy8f29y7wrdoo9olqlrn?round=1
+آیدفل سرداری,آیدفل سرداری,racecard,CAFFEINE,CAFEINE,,,,حلیم سرداری,,,2019-09-20,https://asbdavani.app/racecards/clpnioyks2a3xwrdos97goam6?round=1
+اسکای فیس,اسکای فیس,racecard,MORPHINE,MORPHINE,,,,بهمن اونق,,,2019-11-29,https://asbdavani.app/racecards/clpnioz9g2ag3wrdok3ibr5ze?round=1
+مشکل,مشکل,racecard,COBALT,COBALT,,,,احمد ایری,,,2018-06-29,https://asbdavani.app/racecards/clpninthk28xwwrdo23ft6a4e?round=1
+لوکاس 2,لوکاس 2,racecard,DEXAMETHASONE|KETOPROFEN|PHENYLBUTAZONE,DEXAMETHASONE|KETOPROFEN|PHENYLBUTAZONE,,,,علی اونق,,,2018-07-13,https://asbdavani.app/racecards/clpnintjc28yuwrdoket7h6nz?round=1
+اوزان,اوزان,racecard,MORPHINE,MORPHINE,,,,قارمحمد گری,,,2018-12-21,https://asbdavani.app/racecards/clpnioxak29gewrdo0m6xvw8a?round=1
+اسکای فیس,اسکای فیس,racecard,AMPYRONE,AMPYRONE,,,,بهمن اونق,,,2019-12-20,https://asbdavani.app/racecards/clpniozeu2aixwrdouskutk5h?round=1
+می هان,می هان,racecard,KETOPROFEN,KETOPROFEN,,,,منصور قانقرمه,,,2019-12-20,https://asbdavani.app/racecards/clpniozeu2aixwrdouskutk5h?round=1
+بای بای سلاق,بای بای سلاق,racecard,CYPROHEPTADINE,CYPROHEPTADINE,,,,رجب قلیچ گوگ نژاد,,,2019-12-20,https://asbdavani.app/racecards/clpniozeu2aixwrdouskutk5h?round=1
+سامانتا,سامانتا,racecard,DICLOFENAC|FLUNIXINE|PHENYLBUTAZONE,DICLOFENAC|FLUNIXINE|PHENYLBUTAZONE,,,,تاشجان توفیقی نژاد,,,2022-02-25,https://asbdavani.app/racecards/clpniqygl2i6hwrdorw3sy158?round=1
+جولان,جولان,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,ابراهیم بدویزاده,,,2022-05-20,https://asbdavani.app/racecards/clpnisqc52il9wrdo4ma2sa05?round=1
+آرنکا,آرنکا,racecard,CAFFEINE|FLUNIXINE|PHENYLBUTAZONE,CAFEINE|FLUNIXINE|PHENYLBUTAZONE,,,,مجید صالح پور,,,2018-09-21,https://asbdavani.app/racecards/clpnintt9294vwrdox76kxfq4?round=1
+زیبای بندر,زیبای بندر,racecard,,BRONCHODILATORS,,,,عبدالعزیز اونق(عبدالعظیم),,,2019-05-03,https://asbdavani.app/racecards/clpnioxzz29uvwrdo2d5esjnj?round=1
+آل بیوتی,آل بیوتی,racecard,CODEINE|LEVAMISOLE|MORPHINE,CODEINE|LEVAMISOLE|MORPHINE,,,,رشید چرکه عطا(عطایی),,,2020-01-10,https://asbdavani.app/racecards/clpniozkv2alnwrdo7y9p8a3e?round=1
+تاواشکا,تاواشکا,racecard,LEVAMISOLE,LEVAMISOLE,,,,کمال قربانی,,,2020-01-10,https://asbdavani.app/racecards/clpniozkv2alnwrdo7y9p8a3e?round=1
+سان استار,سان استار,racecard,METHAMPHETAMINE,METHAMPHETAMINE,,,,عبدالخالق ایری,,,2020-01-10,https://asbdavani.app/racecards/clpniozkv2alnwrdo7y9p8a3e?round=1
+ریو جانیرو(بن),ریو جانیرو(بن),racecard,LEVAMISOLE,LEVAMISOLE,,,,فرهاد خانقلی زاده قزل,,,2020-01-10,https://asbdavani.app/racecards/clpniozkv2alnwrdo7y9p8a3e?round=1
+بنفیت,بنفیت,racecard,ERGONOVINE,ERGONOVINE,,,,حمید روشنی,,,2020-01-10,https://asbdavani.app/racecards/clpniozkv2alnwrdo7y9p8a3e?round=1
+سلهان,سلهان,racecard,FLUNIXINE|PHENYLBUTAZONE,FLUNIXINE|PHENYLBUTAZONE,,,,بهزاد خوجملی,,,2022-04-01,https://asbdavani.app/racecards/clpniqz0c2iefwrdolpstucdw?round=1
+الکساندریت,الکساندریت,racecard,CODEINE|MORPHINE,CODEINE|MORPHINE,,,,بهمن حاجی زاده,,,2022-12-02,https://asbdavani.app/racecards/clpnisrgu2j9lwrdoainm4cx5?round=1
+برند آرانپور,برند آرانپور,racecard,DIISOPROPYLAMIN,DIISOPROPYLAMIN,,,,نبی ریگی,,,2022-10-21,https://asbdavani.app/racecards/clpnisr282j14wrdoek43k0e6?r=1
+ماکیما طوس,ماکیما طوس,racecard,PHENYLBUTAZONE,PHENYLBUTAZONE,,,,حمید قندهاری یزدی,,,2019-09-27,https://asbdavani.app/racecards/clpnioylz2a4ewrdox41nkpb3?round=1
+بلاچاو,بلاچاو,racecard,FLUNIXINE|LIDOCAINE|SALBUTAMOL|XYLAZINE,FLUNIXINE|LIDOCAINE|SALBUTAMOL|XYLAZINE,,,,ناصر خانپور,,,2022-08-12,https://asbdavani.app/racecards/clpnisqp92isgwrdom50e4ues?r=1
+تایم وار خادمعلی,تایم وار خادمعلی,racecard,CAFFEINE|PHENYLBUTAZONE,CAFEINE|PHENYLBUTAZONE,,,,نوید زهرایی,,,2023-02-03,https://asbdavani.app/racecards/clpniss9e2jmtwrdoseuieu40?r=1

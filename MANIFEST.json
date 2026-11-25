@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T08:20Z",
+  "generated_utc": "2026-11-25T08:25Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -48,6 +48,10 @@
     "reload_crosswalk.py": {
       "sha256": "464c1f65a81ecd865e3c9c641a1275a3c42ba19d505e66bfe1bd8127f39c5465",
       "bytes": 4910
+    },
+    "doping_union.py": {
+      "sha256": "3fc39eaa12f1dadf7611eb6b21edca1b8deb3f6b6d3bdb68e982a9eedf316ec7",
+      "bytes": 5398
     },
     "rebuild_drugs.py": {
       "sha256": "5256cca91e7ae4290ad903562aa6e1623952ea0fc3684155815be6b7e55f0625",
@@ -173,6 +177,10 @@
       "sha256": "cd18e5f2979e06d72bb8dd19b46934fecc8d733b72867cd1f3cabc04a2bfb1cc",
       "bytes": 3331
     },
+    "doping-canonical/doping_master.csv": {
+      "sha256": "0de48ea8b4f39a878dd610b02752fe6c76f0f875105744e4584054d6ce5cfb81",
+      "bytes": 38090
+    },
     "doping-canonical/asb_doping_verdicts_canonical.csv": {
       "sha256": "96e3ccde888f3e3901c6505bae310a7e9412af3e45ff0670ea7c8ffa6279601f",
       "bytes": 60376
@@ -184,6 +192,10 @@
     "doping-canonical/asb_drug_observations.csv": {
       "sha256": "970cb87ef192abfb7c6b6826d47668204753579a69e0e516f454c6a94f3f1d97",
       "bytes": 3760
+    },
+    "doping-canonical/doping_records.csv": {
+      "sha256": "fe7af4cc789dea7fd82c0ee7eae96f450a3bdb6605b01bf8d499380bcbb3daac",
+      "bytes": 83003
     },
     "doping-canonical/doping_evidence_from_results.csv": {
       "sha256": "fa41df0a61f996ee00736fc6ded6745ab82a88240ec8ae7f3d23044dcc07b94e",
