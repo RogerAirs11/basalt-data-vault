@@ -20,7 +20,8 @@ REPO = os.environ.get('REPO', 'RogerAirs11/basalt-data-vault')
 TOKEN = os.environ['GITHUB_TOKEN']
 WORKERS = int(os.environ.get('WORKERS', '24'))
 MAX_MIN = int(os.environ.get('MAX_MIN', '40'))
-FLUSH_EVERY = int(os.environ.get('FLUSH_EVERY', '45'))   # seconds
+FLUSH_EVERY = int(os.environ.get('FLUSH_EVERY', '30'))   # seconds
+MAX_PAGES_PER_SHARD = int(os.environ.get('MAX_PAGES_PER_SHARD', '150'))  # ~5MB
 H = {'Authorization': 'Bearer ' + TOKEN, 'Accept': 'application/vnd.github+json',
      'User-Agent': 'gha-scrape'}
 API = f'https://api.github.com/repos/{REPO}'
@@ -32,7 +33,7 @@ def api(path, method='GET', body=None, retries=4):
             data = json.dumps(body).encode() if body else None
             r = urllib.request.Request(f'{API}/{path}', data=data, method=method,
                                        headers={**H, 'Content-Type': 'application/json'})
-            with urllib.request.urlopen(r, timeout=120) as x:
+            with urllib.request.urlopen(r, timeout=300) as x:
                 return json.loads(x.read())
         except Exception as e:
             if t == retries - 1:
@@ -135,8 +136,9 @@ def flush():
     with bl:
         if not buffer:
             return
-        batch = dict(buffer)
-        buffer.clear()
+        batch = dict(list(buffer.items())[:MAX_PAGES_PER_SHARD])
+        for k in batch:
+            buffer.pop(k, None)
     buf = io.BytesIO()
     with tarfile.open(fileobj=buf, mode='w:gz') as tf:
         for slug, body in batch.items():
