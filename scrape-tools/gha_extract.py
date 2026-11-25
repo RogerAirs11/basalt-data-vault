@@ -97,14 +97,21 @@ def parse_page(slug, html):
     text = strip_tags(html)
     out = {'asbdavani_horse_id': slug}
     # name: first h1-ish heading
-    m = re.search(r'<h[12][^>]*>(.*?)</h[12]>', html, re.S | re.I)
-    out['name'] = strip_tags(m.group(1))[:80] if m else None
+    m = re.search(r'<h[12][^>]*>([\s\S]{1,300}?)</h[12]>', html, re.S | re.I)
+    if m:
+        out['name'] = strip_tags(m.group(1))[:80]
+    else:
+        t = re.search(r'<title[^>]*>([\s\S]{1,200}?)</title>', html, re.S | re.I)
+        nm = strip_tags(t.group(1)) if t else ''
+        out['name'] = re.sub(r'^عملکرد اسب\s*|\s*\|.*$', '', nm).strip()[:80] or None
     # summary numbers sit next to their Persian labels
     for label, key in [('تعداد استارت', 'starts'), ('مقام اول', 'win'),
                        ('مقام دوم', 'second'), ('مقام سوم', 'third'),
                        ('بهترین ریتینگ', 'ior_best'), ('ریتینگ مسافت', 'ior_distance'),
                        ('ریتینگ ۱۲۰۰ متر', 'ior_1200'), ('ریتینگ ۱۰۰۰ متر', 'ior_1000')]:
-        mm = re.search(re.escape(label) + r'[\s\S]{0,80}?(\d+|-)', text)
+        # the value sits immediately after the label; keep the window tight and
+        # stop at the next Persian letter so we never swallow the next label's digit
+        mm = re.search(re.escape(label) + r'[\s\S]{0,30}?([0-9۰-۹]+|-)', text)
         if mm:
             v = mm.group(1).translate(str.maketrans(FA, EN))
             out[key] = None if v == '-' else int(v)
