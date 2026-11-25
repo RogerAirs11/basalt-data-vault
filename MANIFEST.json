@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T08:30Z",
+  "generated_utc": "2026-11-25T08:40Z",
   "files": {
     "race_records_FINAL.csv": {
       "sha256": "fb0440853b73515a40f43498a65cc20c05832ea48eb89943d909ae7b4da335f5",
@@ -180,6 +180,10 @@
     "STATUS-2026-11-25.md": {
       "sha256": "cd18e5f2979e06d72bb8dd19b46934fecc8d733b72867cd1f3cabc04a2bfb1cc",
       "bytes": 3331
+    },
+    "DATABASE-STATE-2026-11-25.md": {
+      "sha256": "d8e21fb1167697dc2060c868375cd0768976453fcab415ba5ab582cc9b1741b5",
+      "bytes": 5867
     },
     "doping-canonical/doping_master.csv": {
       "sha256": "0de48ea8b4f39a878dd610b02752fe6c76f0f875105744e4584054d6ce5cfb81",
