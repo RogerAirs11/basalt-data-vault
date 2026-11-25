@@ -16,7 +16,7 @@ BRANCH='main'
 BASE='/home/user/scrape-2026-11-25'
 PAGES=os.path.join(BASE,'pages')
 STATE=os.path.join(BASE,'sync_state.json')
-SHARD_SIZE=100
+SHARD_SIZE=25
 
 tok=json.load(open('/home/user/.horse-private/accounts.json'))['github']
 H={'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json','User-Agent':'scraper-sync'}
@@ -76,8 +76,24 @@ def cycle(s):
         p=os.path.join(BASE,'out',fn)
         if os.path.exists(p):
             put_file(f'scrape-2026-11-25/out/{fn}',open(p,'rb').read(),f'parsed {fn} ({len(have)} pages)')
+    export_state(s)
     save_state(s)
     return True,'ok'
+
+# --- state export so a restart never re-downloads and never loses the list ---
+def export_state(s):
+    """Publish scraped_slugs.json: the authoritative record of what we already have."""
+    pages={f[:-4] for f in os.listdir(PAGES) if f.endswith('.txt')}
+    payload={
+      'complete': sorted(set(s['sharded']) | pages),
+      'in_shards': sorted(set(s['sharded'])),
+      'local_only': sorted(pages - set(s['sharded'])),
+      'shards': s['shards'],
+      'updated': time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),
+    }
+    put_file('scrape-2026-11-25/scraped_slugs.json',
+             json.dumps(payload,ensure_ascii=False).encode(),
+             f'scraped slug list ({len(payload["complete"])} pages)')
 
 if __name__=='__main__':
     s=load_state()
@@ -88,4 +104,4 @@ if __name__=='__main__':
             if not ok: print(' ',msg,flush=True)
         except Exception as e:
             print('  sync error:',type(e).__name__,str(e)[:150],flush=True)
-        time.sleep(180)
+        time.sleep(60)
