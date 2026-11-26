@@ -3,7 +3,9 @@ on:
   workflow_dispatch:
     inputs:
       mode: {description: 'missing|all', default: 'missing'}
-      minutes: {description: 'max minutes', default: '40'}
+      minutes: {description: 'max minutes', default: '35'}
+  schedule:
+    - cron: '*/15 * * * *'
 concurrency: {group: full, cancel-in-progress: false}
 permissions: {contents: write}
 jobs:
@@ -15,7 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MODE: ${{ github.event.inputs.mode || 'missing' }}
-          MAX_MIN: ${{ github.event.inputs.minutes || '40' }}
+          MAX_MIN: ${{ github.event.inputs.minutes || '35' }}
         run: |
           python3 - <<'PY'
           import urllib.request
