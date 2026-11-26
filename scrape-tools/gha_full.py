@@ -163,7 +163,7 @@ def flush():
         if not buf:
             return
         items = list(buf.items())[:MAX_PAGES_PER_SHARD]
-        for k in items:
+        for k, _ in items:
             buf.pop(k, None)
     payload = dict(items)
     tb = io.BytesIO()
@@ -201,6 +201,7 @@ while any(t.is_alive() for t in ths):
     if time.time() - last >= FLUSH_EVERY:
         flush()
         last = time.time()
-flush()
+while buf:
+    flush()
 print(f'DONE ok={stats["ok"]} fail={stats["fail"]} in '
       f'{(time.time()-start)/60:.1f}min', flush=True)
