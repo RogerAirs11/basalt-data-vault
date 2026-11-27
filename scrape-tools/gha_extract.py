@@ -166,14 +166,78 @@ def parse_page(slug, html):
     return out, races
 
 
+
+def parse_ratings(slug, body):
+    """Extract rating-change history rows from /ratings HTML."""
+    rows = []
+    # Each row in the ratings table has distance, time - jalali_date, new_rating, description
+    txt = strip_tags(body)
+    txt = txt.translate(str.maketrans(FA, EN))
+    # Match patterns like: 1600 06:02 - 1402/11/14 68 ریتینگ جدید 3 واحد کاهش داده شد.
+    for m in re.finditer(
+        r'(\d{3,4}|[123])\s+(\d{2}:\d{2})\s*-\s*(\d{4}/\d{1,2}/\d{1,2})\s+(\d+)\s+([^\n]{5,120}?)(?=\s+\d+\s+(?:\d{3,4}|[123])\s+\d{2}:\d{2}|$)',
+        txt
+    ):
+        dist, tm, jdate, val, note = m.groups()
+        rows.append({
+            'asbdavani_horse_id': slug,
+            'distance': dist,
+            'jalali_date': jdate,
+            'week_date': race_date(jdate),
+            'rating': int(val),
+            'note': note.strip()[:150],
+        })
+    return rows
+
+
 def main():
+    stats_rows, race_rows, dop_rows, rating_rows = [], [], [], []
+    seen = set()
+    seen_ratings = set()
+    pages = 0
+
+    # 1. Process full/ shards FIRST (raw HTML for all 4 tabs, supersedes raw/*.txt)
+    dfull = api('contents/scrape-2026-11-25/full')
+    full_shards = [x for x in (dfull if isinstance(dfull, list) else []) if x['name'].endswith('.tar.gz')]
+    print(f'full shards: {len(full_shards)}', flush=True)
+    for i, s in enumerate(full_shards, 1):
+        raw_url = f"{RAW}/scrape-2026-11-25/full/{s['name']}"
+        try:
+            data = urllib.request.urlopen(raw_url, timeout=300).read()
+            tf = tarfile.open(fileobj=io.BytesIO(data), mode='r:gz')
+        except Exception:
+            continue
+        for m in tf.getmembers():
+            if m.size <= 1000:
+                continue
+            bname = os.path.basename(m.name).rsplit('.', 1)[0]
+            if '__' not in bname:
+                continue
+            slug, tab = bname.split('__', 1)
+            try:
+                body = tf.extractfile(m).read().decode('utf-8', 'replace')
+            except Exception:
+                continue
+            if tab == 'info' and slug not in seen:
+                seen.add(slug)
+                summ, races = parse_page(slug, body)
+                stats_rows.append(summ)
+                race_rows.extend(races)
+                for r in races:
+                    if r['doping_raw']:
+                        dop_rows.append({'asbdavani_horse_id': slug, 'horse_name': summ['name'],
+                                         'week_date': r['week_date'], 'raw': r['doping_raw']})
+                pages += 1
+            elif tab == 'ratings' and slug not in seen_ratings:
+                seen_ratings.add(slug)
+                rating_rows.extend(parse_ratings(slug, body))
+        if i % 30 == 0:
+            print(f'  full {i}/{len(full_shards)}: {pages} info, {len(race_rows)} races, {len(rating_rows)} ratings', flush=True)
+
+    # 2. Process raw/ shards for the remaining horses
     d = api('contents/scrape-2026-11-25/raw')
     shards = [x for x in d if x['name'].endswith('.tar.gz')]
-    print(f'shards: {len(shards)}', flush=True)
-
-    stats_rows, race_rows, dop_rows = [], [], []
-    seen = set()
-    pages = 0
+    print(f'raw shards: {len(shards)}', flush=True)
     for i, s in enumerate(shards, 1):
         raw_url = f"{RAW}/scrape-2026-11-25/raw/{s['name']}"
         try:
@@ -225,9 +289,11 @@ def main():
     rf = ['asbdavani_horse_id', 'horse_name', 'week_date', 'race_label', 'cells', 'doping_raw']
     df = ['asbdavani_horse_id', 'horse_name', 'week_date', 'raw']
 
+    rtf = ['asbdavani_horse_id', 'distance', 'jalali_date', 'week_date', 'rating', 'note']
     for name, rows, fields in [('horse_summary.csv', stats_rows, sf),
                                ('race_rows.csv', race_rows, rf),
-                               ('doping_rows.csv', dop_rows, df)]:
+                               ('doping_rows.csv', dop_rows, df),
+                               ('rating_history.csv', rating_rows, rtf)]:
         ok = put_file(f'scrape-2026-11-25/extracted/{name}',
                       to_csv(rows, fields), f'{name}: {len(rows)} rows')
         print(f'  {name}: {len(rows)} rows -> {"committed" if ok else "FAILED"}', flush=True)
